@@ -1,0 +1,12 @@
+// Define world volume with predetermined dimensions
+:VOLU world BOX 967.*cm 906.*cm 632.5*cm G4_AIR
+:VIS world OFF
+
+// Define unit rotation matrix
+:ROTM R00 90. 0. 90. 90. 0. 0.
+
+:VOLU dose_box BOX 250. 250. 250. G4_WATER
+:PLACE dose_box 1 world R00 -189.*cm 221.*cm 8.2*cm
+:COLOUR dose_box 0.0 0.0 1.0
+:CHECK_OVERLAPS dose_box TRUE
+

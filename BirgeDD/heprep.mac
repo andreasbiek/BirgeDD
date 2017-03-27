@@ -1,0 +1,23 @@
+# Macro file for the visualization setting for the initialization phase 
+# of the BirgeDD when running in interactive mode
+#
+/run/initialize
+
+#Initialize detector drawing
+/vis/open HepRepFile
+/vis/drawVolume
+/vis/viewer/flush
+
+#Prep GPS
+/tracking/verbose 1
+/gps/particle neutron
+/gps/pos/centre 0 0 -15 mm
+/gps/pos/type Point
+/gps/ang/type iso
+/gps/ene/type Mono
+/gps/ene/mono 2.2 MeV
+
+#Run some particles
+/vis/scene/add/trajectories
+/analysis/setFileName LHeB_vis
+/run/beamOn 10
