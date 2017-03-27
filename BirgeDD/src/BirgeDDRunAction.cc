@@ -44,7 +44,8 @@
 BirgeDDRunAction::BirgeDDRunAction()
  : G4UserRunAction(),
  fEdep(0.),
- fEdep2(0.)
+ fEdep2(0.),
+ nDeposits(0)
 { 
   // set printing event number per each event
   G4RunManager::GetRunManager()->SetPrintProgress(1);     
@@ -140,6 +141,8 @@ void BirgeDDRunAction::EndOfRunAction(const G4Run* run)
      << " Cumulated dose per run, in scoring volume : " 
      << G4BestUnit(dose,"Dose") << " rms = " << G4BestUnit(rmsDose,"Dose")
      << G4endl
+     << " There were " << nDeposits << " events depositing energy in the sensitive volume"
+     << G4endl
      << "------------------------------------------------------------"
      << G4endl
      << G4endl;
@@ -190,6 +193,10 @@ void BirgeDDRunAction::AddEdep(G4double edep)
 {
   fEdep  += edep;
   fEdep2 += edep*edep;
+  if ( edep > 0 ) 
+  {
+    nDeposits += 1;
+  }
 }
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......

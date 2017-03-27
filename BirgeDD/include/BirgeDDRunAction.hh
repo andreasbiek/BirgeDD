@@ -50,6 +50,7 @@ class BirgeDDRunAction : public G4UserRunAction
   private:
     G4double fEdep;
     G4double fEdep2;
+    G4int nDeposits;
 
 };
 
