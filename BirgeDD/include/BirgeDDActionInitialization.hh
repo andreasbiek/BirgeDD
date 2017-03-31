@@ -34,6 +34,7 @@
 #include "G4VUserActionInitialization.hh"
 
 class BirgeDDDetectorConstruction;
+//class GDMLDetectorConstruction;
 
 /// Action initialization class.
 ///
@@ -42,6 +43,7 @@ class BirgeDDActionInitialization : public G4VUserActionInitialization
 {
   public:
     BirgeDDActionInitialization(BirgeDDDetectorConstruction*);
+    //BirgeDDActionInitialization(GDMLDetectorConstruction*);
     virtual ~BirgeDDActionInitialization();
 
     virtual void BuildForMaster() const;

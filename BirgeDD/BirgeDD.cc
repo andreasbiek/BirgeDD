@@ -29,6 +29,7 @@
 /// \brief Main program of the BirgeDD example
 
 #include "BirgeDDDetectorConstruction.hh"
+//#include "GDMLDetectorConstruction.hh"
 #include "BirgeDDActionInitialization.hh"
 
 #ifdef G4MULTITHREADED
@@ -45,6 +46,8 @@
 
 #include "G4VisExecutive.hh"
 #include "G4UIExecutive.hh"
+
+#include "G4GDMLParser.hh"
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
@@ -109,6 +112,10 @@ int main(int argc,char** argv)
   G4RunManager * runManager = new G4RunManager;
 #endif
 
+  // Read detector construction from GDML file
+/*  G4GDMLParser parser;
+  parser.Read("g4test.gdml",false);*/
+
   // Set mandatory initialization classes
   //
   BirgeDDDetectorConstruction* detConstruction = new BirgeDDDetectorConstruction();
@@ -146,6 +153,12 @@ int main(int argc,char** argv)
     ui->SessionStart();
     delete ui;
   }
+
+/*  // Write geometry to GDML file
+  G4VPhysicalVolume* pWorld = G4TransportationManager::GetTransportationManager()->GetNavigatorForTracking()->GetWorldVolume();
+
+  G4GDMLParser parser;
+  parser.Write("g4test.gdml", pWorld);*/
 
   // Job termination
   // Free the store: user actions, physics_list and detector_description are

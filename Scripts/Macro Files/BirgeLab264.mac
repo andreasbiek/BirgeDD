@@ -1,0 +1,19 @@
+/run/initialize
+/tracking/verbose 0
+/random/setSeeds 1264 4432
+
+# list the existing physics processes
+/process/list
+
+/gps/particle neutron
+/gps/pos/centre 31.75 1720.8 -355.6 mm
+/gps/pos/type Point
+/gps/ang/type iso
+
+/gps/ene/type Mono
+/gps/ene/mono 2.8 MeV
+
+/run/printProgress 10000
+/analysis/setFileName BirgeLab264
+
+/run/beamOn 100000

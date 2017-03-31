@@ -78,7 +78,7 @@ void BirgeDDPrimaryGeneratorAction::GeneratePrimaries(G4Event* anEvent)
   //
   G4double worldZHalfLength = 0;
   G4LogicalVolume* worlLV
-    = G4LogicalVolumeStore::GetInstance()->GetVolume("world");
+    = G4LogicalVolumeStore::GetInstance()->GetVolume("WorldLV");
   G4Box* worldBox = 0;
   if ( worlLV) worldBox = dynamic_cast< G4Box*>(worlLV->GetSolid()); 
   if ( worldBox ) {

@@ -34,6 +34,7 @@
 #include "BirgeDDEventAction.hh"
 #include "BirgeDDSteppingAction.hh"
 #include "BirgeDDDetectorConstruction.hh"
+//#include "GDMLDetectorConstruction.hh"
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
@@ -43,6 +44,14 @@ BirgeDDActionInitialization::BirgeDDActionInitialization
  fDetConstruction(detConstruction)
 {}
 
+/*//....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
+
+BirgeDDActionInitialization::BirgeDDActionInitialization
+							(GDMLDetectorConstruction* detConstruction)
+ : G4VUserActionInitialization(),
+ fDetConstruction(detConstruction)
+{}
+*/
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
 BirgeDDActionInitialization::~BirgeDDActionInitialization()
