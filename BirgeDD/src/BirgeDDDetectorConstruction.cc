@@ -670,7 +670,7 @@ G4VPhysicalVolume* BirgeDDDetectorConstruction::DefineVolumes()
 
     name = "world_box";
     G4Box* world_box = new G4Box(name, world_x/2.0, world_y/2.0, world_z/2.0);
-    WorldLV = new G4LogicalVolume(world_box, world_material, name);
+    WorldLV = new G4LogicalVolume(world_box, world_material, "worldLV");
     WorldPV = new G4PVPlacement(0, G4ThreeVector(0,0,0), WorldLV, name, 0, false, 0);
   
     name = "z_wall";

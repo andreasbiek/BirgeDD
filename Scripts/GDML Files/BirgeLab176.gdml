@@ -4,877 +4,877 @@
   <define/>
 
   <materials>
-    <isotope N="1" Z="1" name="H10x7fb299c9a2f0">
+    <isotope N="1" Z="1" name="H10x7fed4fc83d90">
       <atom unit="g/mole" value="1.00782503081372"/>
     </isotope>
-    <isotope N="2" Z="1" name="H20x7fb299c9a4e0">
+    <isotope N="2" Z="1" name="H20x7fed4fc83ed0">
       <atom unit="g/mole" value="2.01410199966617"/>
     </isotope>
-    <element name="H0x7fb299c9a520">
-      <fraction n="0.999885" ref="H10x7fb299c9a2f0"/>
-      <fraction n="0.000115" ref="H20x7fb299c9a4e0"/>
+    <element name="H0x7fed4fc83f20">
+      <fraction n="0.999885" ref="H10x7fed4fc83d90"/>
+      <fraction n="0.000115" ref="H20x7fed4fc83ed0"/>
     </element>
-    <isotope N="12" Z="6" name="C120x7fb299c9a840">
+    <isotope N="12" Z="6" name="C120x7fed4fc84280">
       <atom unit="g/mole" value="12"/>
     </isotope>
-    <isotope N="13" Z="6" name="C130x7fb299c9a8a0">
+    <isotope N="13" Z="6" name="C130x7fed4fc842e0">
       <atom unit="g/mole" value="13.0034"/>
     </isotope>
-    <element name="C0x7fb299c9aff0">
-      <fraction n="0.9893" ref="C120x7fb299c9a840"/>
-      <fraction n="0.0107" ref="C130x7fb299c9a8a0"/>
+    <element name="C0x7fed4fc84a30">
+      <fraction n="0.9893" ref="C120x7fed4fc84280"/>
+      <fraction n="0.0107" ref="C130x7fed4fc842e0"/>
     </element>
-    <isotope N="16" Z="8" name="O160x7fb299c9b420">
+    <isotope N="16" Z="8" name="O160x7fed4fc84e60">
       <atom unit="g/mole" value="15.9949"/>
     </isotope>
-    <isotope N="17" Z="8" name="O170x7fb299c9b460">
+    <isotope N="17" Z="8" name="O170x7fed4fc84ea0">
       <atom unit="g/mole" value="16.9991"/>
     </isotope>
-    <isotope N="18" Z="8" name="O180x7fb299c9b4a0">
+    <isotope N="18" Z="8" name="O180x7fed4fc84ee0">
       <atom unit="g/mole" value="17.9992"/>
     </isotope>
-    <element name="O0x7fb299c9b580">
-      <fraction n="0.99757" ref="O160x7fb299c9b420"/>
-      <fraction n="0.00038" ref="O170x7fb299c9b460"/>
-      <fraction n="0.00205" ref="O180x7fb299c9b4a0"/>
+    <element name="O0x7fed4fc84fc0">
+      <fraction n="0.99757" ref="O160x7fed4fc84e60"/>
+      <fraction n="0.00038" ref="O170x7fed4fc84ea0"/>
+      <fraction n="0.00205" ref="O180x7fed4fc84ee0"/>
     </element>
-    <isotope N="23" Z="11" name="Na230x7fb299c9e580">
+    <isotope N="23" Z="11" name="Na230x7fed4fc87fc0">
       <atom unit="g/mole" value="22.9898"/>
     </isotope>
-    <element name="Na0x7fb299c9e9d0">
-      <fraction n="1" ref="Na230x7fb299c9e580"/>
+    <element name="Na0x7fed4fc88410">
+      <fraction n="1" ref="Na230x7fed4fc87fc0"/>
     </element>
-    <isotope N="24" Z="12" name="Mg240x7fb299cada00">
+    <isotope N="24" Z="12" name="Mg240x7fed4fc97440">
       <atom unit="g/mole" value="23.985"/>
     </isotope>
-    <isotope N="25" Z="12" name="Mg250x7fb299cad3f0">
+    <isotope N="25" Z="12" name="Mg250x7fed4fc96e30">
       <atom unit="g/mole" value="24.9858"/>
     </isotope>
-    <isotope N="26" Z="12" name="Mg260x7fb299cad430">
+    <isotope N="26" Z="12" name="Mg260x7fed4fc96e70">
       <atom unit="g/mole" value="25.9826"/>
     </isotope>
-    <element name="Mg0x7fb299cad490">
-      <fraction n="0.7899" ref="Mg240x7fb299cada00"/>
-      <fraction n="0.1" ref="Mg250x7fb299cad3f0"/>
-      <fraction n="0.1101" ref="Mg260x7fb299cad430"/>
+    <element name="Mg0x7fed4fc96ed0">
+      <fraction n="0.7899" ref="Mg240x7fed4fc97440"/>
+      <fraction n="0.1" ref="Mg250x7fed4fc96e30"/>
+      <fraction n="0.1101" ref="Mg260x7fed4fc96e70"/>
     </element>
-    <isotope N="27" Z="13" name="Al270x7fb299c9dcd0">
+    <isotope N="27" Z="13" name="Al270x7fed4fc87710">
       <atom unit="g/mole" value="26.9815"/>
     </isotope>
-    <element name="Al0x7fb299c9e200">
-      <fraction n="1" ref="Al270x7fb299c9dcd0"/>
+    <element name="Al0x7fed4fc87c40">
+      <fraction n="1" ref="Al270x7fed4fc87710"/>
     </element>
-    <isotope N="28" Z="14" name="Si280x7fb299c9eba0">
+    <isotope N="28" Z="14" name="Si280x7fed4fc885e0">
       <atom unit="g/mole" value="27.9769"/>
     </isotope>
-    <isotope N="29" Z="14" name="Si290x7fb299c9ebe0">
+    <isotope N="29" Z="14" name="Si290x7fed4fc88620">
       <atom unit="g/mole" value="28.9765"/>
     </isotope>
-    <isotope N="30" Z="14" name="Si300x7fb299c9ec30">
+    <isotope N="30" Z="14" name="Si300x7fed4fc88670">
       <atom unit="g/mole" value="29.9738"/>
     </isotope>
-    <element name="Si0x7fb299c9ec90">
-      <fraction n="0.922296077703922" ref="Si280x7fb299c9eba0"/>
-      <fraction n="0.0468319531680468" ref="Si290x7fb299c9ebe0"/>
-      <fraction n="0.0308719691280309" ref="Si300x7fb299c9ec30"/>
+    <element name="Si0x7fed4fc886d0">
+      <fraction n="0.922296077703922" ref="Si280x7fed4fc885e0"/>
+      <fraction n="0.0468319531680468" ref="Si290x7fed4fc88620"/>
+      <fraction n="0.0308719691280309" ref="Si300x7fed4fc88670"/>
     </element>
-    <isotope N="39" Z="19" name="K390x7fb299caa620">
+    <isotope N="39" Z="19" name="K390x7fed4fc94060">
       <atom unit="g/mole" value="38.9637"/>
     </isotope>
-    <isotope N="40" Z="19" name="K400x7fb299caa660">
+    <isotope N="40" Z="19" name="K400x7fed4fc940a0">
       <atom unit="g/mole" value="39.964"/>
     </isotope>
-    <isotope N="41" Z="19" name="K410x7fb299caa6a0">
+    <isotope N="41" Z="19" name="K410x7fed4fc940e0">
       <atom unit="g/mole" value="40.9618"/>
     </isotope>
-    <element name="K0x7fb299caa700">
-      <fraction n="0.932581" ref="K390x7fb299caa620"/>
-      <fraction n="0.000117" ref="K400x7fb299caa660"/>
-      <fraction n="0.067302" ref="K410x7fb299caa6a0"/>
+    <element name="K0x7fed4fc94140">
+      <fraction n="0.932581" ref="K390x7fed4fc94060"/>
+      <fraction n="0.000117" ref="K400x7fed4fc940a0"/>
+      <fraction n="0.067302" ref="K410x7fed4fc940e0"/>
     </element>
-    <isotope N="40" Z="20" name="Ca400x7fb299c9ee90">
+    <isotope N="40" Z="20" name="Ca400x7fed4fc888d0">
       <atom unit="g/mole" value="39.9626"/>
     </isotope>
-    <isotope N="42" Z="20" name="Ca420x7fb299c9eed0">
+    <isotope N="42" Z="20" name="Ca420x7fed4fc88910">
       <atom unit="g/mole" value="41.9586"/>
     </isotope>
-    <isotope N="43" Z="20" name="Ca430x7fb299c9ef10">
+    <isotope N="43" Z="20" name="Ca430x7fed4fc88950">
       <atom unit="g/mole" value="42.9588"/>
     </isotope>
-    <isotope N="44" Z="20" name="Ca440x7fb299c9ef50">
+    <isotope N="44" Z="20" name="Ca440x7fed4fc88990">
       <atom unit="g/mole" value="43.9555"/>
     </isotope>
-    <isotope N="46" Z="20" name="Ca460x7fb299c9ef90">
+    <isotope N="46" Z="20" name="Ca460x7fed4fc889d0">
       <atom unit="g/mole" value="45.9537"/>
     </isotope>
-    <isotope N="48" Z="20" name="Ca480x7fb299c9cff0">
+    <isotope N="48" Z="20" name="Ca480x7fed4fc86a30">
       <atom unit="g/mole" value="47.9525"/>
     </isotope>
-    <element name="Ca0x7fb299c9f1d0">
-      <fraction n="0.96941" ref="Ca400x7fb299c9ee90"/>
-      <fraction n="0.00647" ref="Ca420x7fb299c9eed0"/>
-      <fraction n="0.00135" ref="Ca430x7fb299c9ef10"/>
-      <fraction n="0.02086" ref="Ca440x7fb299c9ef50"/>
-      <fraction n="4e-05" ref="Ca460x7fb299c9ef90"/>
-      <fraction n="0.00187" ref="Ca480x7fb299c9cff0"/>
+    <element name="Ca0x7fed4fc88c10">
+      <fraction n="0.96941" ref="Ca400x7fed4fc888d0"/>
+      <fraction n="0.00647" ref="Ca420x7fed4fc88910"/>
+      <fraction n="0.00135" ref="Ca430x7fed4fc88950"/>
+      <fraction n="0.02086" ref="Ca440x7fed4fc88990"/>
+      <fraction n="4e-05" ref="Ca460x7fed4fc889d0"/>
+      <fraction n="0.00187" ref="Ca480x7fed4fc86a30"/>
     </element>
-    <isotope N="54" Z="26" name="Fe540x7fb299ca3b70">
+    <isotope N="54" Z="26" name="Fe540x7fed4fc8d5b0">
       <atom unit="g/mole" value="53.9396"/>
     </isotope>
-    <isotope N="56" Z="26" name="Fe560x7fb299ca3670">
+    <isotope N="56" Z="26" name="Fe560x7fed4fc8d0b0">
       <atom unit="g/mole" value="55.9349"/>
     </isotope>
-    <isotope N="57" Z="26" name="Fe570x7fb299ca36b0">
+    <isotope N="57" Z="26" name="Fe570x7fed4fc8d0f0">
       <atom unit="g/mole" value="56.9354"/>
     </isotope>
-    <isotope N="58" Z="26" name="Fe580x7fb299ca3710">
+    <isotope N="58" Z="26" name="Fe580x7fed4fc8d150">
       <atom unit="g/mole" value="57.9333"/>
     </isotope>
-    <element name="Fe0x7fb299ca3750">
-      <fraction n="0.05845" ref="Fe540x7fb299ca3b70"/>
-      <fraction n="0.91754" ref="Fe560x7fb299ca3670"/>
-      <fraction n="0.02119" ref="Fe570x7fb299ca36b0"/>
-      <fraction n="0.00282" ref="Fe580x7fb299ca3710"/>
+    <element name="Fe0x7fed4fc8d190">
+      <fraction n="0.05845" ref="Fe540x7fed4fc8d5b0"/>
+      <fraction n="0.91754" ref="Fe560x7fed4fc8d0b0"/>
+      <fraction n="0.02119" ref="Fe570x7fed4fc8d0f0"/>
+      <fraction n="0.00282" ref="Fe580x7fed4fc8d150"/>
     </element>
-    <material name="G4_CONCRETE0x7fb29c093280" state="solid">
+    <material name="G4_CONCRETE0x7fed4fca2da0" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="135.2"/>
       <D unit="g/cm3" value="2.3"/>
-      <fraction n="0.01" ref="H0x7fb299c9a520"/>
-      <fraction n="0.001" ref="C0x7fb299c9aff0"/>
-      <fraction n="0.529107" ref="O0x7fb299c9b580"/>
-      <fraction n="0.016" ref="Na0x7fb299c9e9d0"/>
-      <fraction n="0.002" ref="Mg0x7fb299cad490"/>
-      <fraction n="0.033872" ref="Al0x7fb299c9e200"/>
-      <fraction n="0.337021" ref="Si0x7fb299c9ec90"/>
-      <fraction n="0.013" ref="K0x7fb299caa700"/>
-      <fraction n="0.044" ref="Ca0x7fb299c9f1d0"/>
-      <fraction n="0.014" ref="Fe0x7fb299ca3750"/>
+      <fraction n="0.01" ref="H0x7fed4fc83f20"/>
+      <fraction n="0.001" ref="C0x7fed4fc84a30"/>
+      <fraction n="0.529107" ref="O0x7fed4fc84fc0"/>
+      <fraction n="0.016" ref="Na0x7fed4fc88410"/>
+      <fraction n="0.002" ref="Mg0x7fed4fc96ed0"/>
+      <fraction n="0.033872" ref="Al0x7fed4fc87c40"/>
+      <fraction n="0.337021" ref="Si0x7fed4fc886d0"/>
+      <fraction n="0.013" ref="K0x7fed4fc94140"/>
+      <fraction n="0.044" ref="Ca0x7fed4fc88c10"/>
+      <fraction n="0.014" ref="Fe0x7fed4fc8d190"/>
     </material>
-    <material name="wood0x7fb299cae2f0" state="solid">
+    <material name="wood0x7fed4fc97d30" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="67.1996868607977"/>
       <D unit="g/cm3" value="0.9"/>
-      <fraction n="0.0915215132472401" ref="H0x7fb299c9a520"/>
-      <fraction n="0.363188118343343" ref="O0x7fb299c9b580"/>
-      <fraction n="0.545290368409417" ref="C0x7fb299c9aff0"/>
+      <fraction n="0.0915215132472401" ref="H0x7fed4fc83f20"/>
+      <fraction n="0.363188118343343" ref="O0x7fed4fc84fc0"/>
+      <fraction n="0.545290368409417" ref="C0x7fed4fc84a30"/>
     </material>
-    <material name="Al60610x7fb299cad300" state="solid">
+    <material name="Al60610x7fed4fc96d40" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="166.28607227249"/>
       <D unit="g/cm3" value="2.7"/>
-      <fraction n="0.98" ref="Al0x7fb299c9e200"/>
-      <fraction n="0.01" ref="Mg0x7fb299cad490"/>
-      <fraction n="0.006" ref="Si0x7fb299c9ec90"/>
-      <fraction n="0.004" ref="Fe0x7fb299ca3750"/>
+      <fraction n="0.98" ref="Al0x7fed4fc87c40"/>
+      <fraction n="0.01" ref="Mg0x7fed4fc96ed0"/>
+      <fraction n="0.006" ref="Si0x7fed4fc886d0"/>
+      <fraction n="0.004" ref="Fe0x7fed4fc8d190"/>
     </material>
-    <material name="Soil0x7fb299cad030" state="solid">
+    <material name="Soil0x7fed4fc96a70" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="112.098510188939"/>
       <D unit="g/cm3" value="1.5"/>
-      <fraction n="0.021" ref="H0x7fb299c9a520"/>
-      <fraction n="0.016" ref="C0x7fb299c9aff0"/>
-      <fraction n="0.577" ref="O0x7fb299c9b580"/>
-      <fraction n="0.05" ref="Al0x7fb299c9e200"/>
-      <fraction n="0.271" ref="Si0x7fb299c9ec90"/>
-      <fraction n="0.013" ref="K0x7fb299caa700"/>
-      <fraction n="0.041" ref="Ca0x7fb299c9f1d0"/>
-      <fraction n="0.011" ref="Fe0x7fb299ca3750"/>
+      <fraction n="0.021" ref="H0x7fed4fc83f20"/>
+      <fraction n="0.016" ref="C0x7fed4fc84a30"/>
+      <fraction n="0.577" ref="O0x7fed4fc84fc0"/>
+      <fraction n="0.05" ref="Al0x7fed4fc87c40"/>
+      <fraction n="0.271" ref="Si0x7fed4fc886d0"/>
+      <fraction n="0.013" ref="K0x7fed4fc94140"/>
+      <fraction n="0.041" ref="Ca0x7fed4fc88c10"/>
+      <fraction n="0.011" ref="Fe0x7fed4fc8d190"/>
     </material>
-    <isotope N="3" Z="2" name="He30x7fb299cb3e20">
+    <isotope N="3" Z="2" name="He30x7fed4fc9d860">
       <atom unit="g/mole" value="3.01692961808401"/>
     </isotope>
-    <isotope N="4" Z="2" name="He40x7fb299cb3e60">
+    <isotope N="4" Z="2" name="He40x7fed4fc9d8a0">
       <atom unit="g/mole" value="4.00264393551385"/>
     </isotope>
-    <element name="He0x7fb299cb3d10">
-      <fraction n="1.36999949310019e-06" ref="He30x7fb299cb3e20"/>
-      <fraction n="0.999998630000507" ref="He40x7fb299cb3e60"/>
+    <element name="He0x7fed4fc9d750">
+      <fraction n="1.36999949310019e-06" ref="He30x7fed4fc9d860"/>
+      <fraction n="0.999998630000507" ref="He40x7fed4fc9d8a0"/>
     </element>
-    <material name="liquid_helium0x7fb299cb3c00" state="liquid">
+    <material name="liquid_helium0x7fed4fc9d640" state="liquid">
       <T unit="K" value="3"/>
       <MEE unit="eV" value="41.8"/>
       <D unit="g/cm3" value="0.141"/>
-      <fraction n="1" ref="He0x7fb299cb3d10"/>
+      <fraction n="1" ref="He0x7fed4fc9d750"/>
     </material>
-    <isotope N="12" Z="6" name="C120x7fb299cb0ba0">
+    <isotope N="12" Z="6" name="C120x7fed4fc9a5e0">
       <atom unit="g/mole" value="12"/>
     </isotope>
-    <isotope N="13" Z="6" name="C130x7fb299cb0ea0">
+    <isotope N="13" Z="6" name="C130x7fed4fc9a8e0">
       <atom unit="g/mole" value="13.0034"/>
     </isotope>
-    <element name="Carbon0x7fb299cb0df0">
-      <fraction n="0.9893" ref="C120x7fb299cb0ba0"/>
-      <fraction n="0.0107" ref="C130x7fb299cb0ea0"/>
+    <element name="Carbon0x7fed4fc9a830">
+      <fraction n="0.9893" ref="C120x7fed4fc9a5e0"/>
+      <fraction n="0.0107" ref="C130x7fed4fc9a8e0"/>
     </element>
-    <isotope N="55" Z="25" name="Mn550x7fb299cb3000">
+    <isotope N="55" Z="25" name="Mn550x7fed4fc9ca40">
       <atom unit="g/mole" value="54.938"/>
     </isotope>
-    <element name="Manganese0x7fb299cb2ea0">
-      <fraction n="1" ref="Mn550x7fb299cb3000"/>
+    <element name="Manganese0x7fed4fc9c8e0">
+      <fraction n="1" ref="Mn550x7fed4fc9ca40"/>
     </element>
-    <isotope N="31" Z="15" name="P310x7fb299cb2680">
+    <isotope N="31" Z="15" name="P310x7fed4fc9c0c0">
       <atom unit="g/mole" value="30.9738"/>
     </isotope>
-    <element name="Phosphorus0x7fb299cb2540">
-      <fraction n="1" ref="P310x7fb299cb2680"/>
+    <element name="Phosphorus0x7fed4fc9bf80">
+      <fraction n="1" ref="P310x7fed4fc9c0c0"/>
     </element>
-    <isotope N="32" Z="16" name="S320x7fb299cb28c0">
+    <isotope N="32" Z="16" name="S320x7fed4fc9c300">
       <atom unit="g/mole" value="31.9721"/>
     </isotope>
-    <isotope N="33" Z="16" name="S330x7fb299cb2900">
+    <isotope N="33" Z="16" name="S330x7fed4fc9c340">
       <atom unit="g/mole" value="32.9715"/>
     </isotope>
-    <isotope N="34" Z="16" name="S340x7fb299cb2940">
+    <isotope N="34" Z="16" name="S340x7fed4fc9c380">
       <atom unit="g/mole" value="33.9679"/>
     </isotope>
-    <isotope N="36" Z="16" name="S360x7fb299cb2980">
+    <isotope N="36" Z="16" name="S360x7fed4fc9c3c0">
       <atom unit="g/mole" value="35.9671"/>
     </isotope>
-    <element name="Sulfur0x7fb299cb2760">
-      <fraction n="0.9493" ref="S320x7fb299cb28c0"/>
-      <fraction n="0.0076" ref="S330x7fb299cb2900"/>
-      <fraction n="0.0429" ref="S340x7fb299cb2940"/>
-      <fraction n="0.0002" ref="S360x7fb299cb2980"/>
+    <element name="Sulfur0x7fed4fc9c1a0">
+      <fraction n="0.9493" ref="S320x7fed4fc9c300"/>
+      <fraction n="0.0076" ref="S330x7fed4fc9c340"/>
+      <fraction n="0.0429" ref="S340x7fed4fc9c380"/>
+      <fraction n="0.0002" ref="S360x7fed4fc9c3c0"/>
     </element>
-    <isotope N="28" Z="14" name="Si280x7fb299cb23e0">
+    <isotope N="28" Z="14" name="Si280x7fed4fc9be20">
       <atom unit="g/mole" value="27.9769"/>
     </isotope>
-    <isotope N="29" Z="14" name="Si290x7fb299cb2420">
+    <isotope N="29" Z="14" name="Si290x7fed4fc9be60">
       <atom unit="g/mole" value="28.9765"/>
     </isotope>
-    <isotope N="30" Z="14" name="Si300x7fb299cb2460">
+    <isotope N="30" Z="14" name="Si300x7fed4fc9bea0">
       <atom unit="g/mole" value="29.9738"/>
     </isotope>
-    <element name="Silicon0x7fb299cb2280">
-      <fraction n="0.922296077703922" ref="Si280x7fb299cb23e0"/>
-      <fraction n="0.0468319531680468" ref="Si290x7fb299cb2420"/>
-      <fraction n="0.0308719691280309" ref="Si300x7fb299cb2460"/>
+    <element name="Silicon0x7fed4fc9bcc0">
+      <fraction n="0.922296077703922" ref="Si280x7fed4fc9be20"/>
+      <fraction n="0.0468319531680468" ref="Si290x7fed4fc9be60"/>
+      <fraction n="0.0308719691280309" ref="Si300x7fed4fc9bea0"/>
     </element>
-    <isotope N="50" Z="24" name="Cr500x7fb299cb2d00">
+    <isotope N="50" Z="24" name="Cr500x7fed4fc9c740">
       <atom unit="g/mole" value="49.946"/>
     </isotope>
-    <isotope N="52" Z="24" name="Cr520x7fb299cb2d40">
+    <isotope N="52" Z="24" name="Cr520x7fed4fc9c780">
       <atom unit="g/mole" value="51.9405"/>
     </isotope>
-    <isotope N="53" Z="24" name="Cr530x7fb299cb2d80">
+    <isotope N="53" Z="24" name="Cr530x7fed4fc9c7c0">
       <atom unit="g/mole" value="52.9407"/>
     </isotope>
-    <isotope N="54" Z="24" name="Cr540x7fb299cb2dc0">
+    <isotope N="54" Z="24" name="Cr540x7fed4fc9c800">
       <atom unit="g/mole" value="53.9389"/>
     </isotope>
-    <element name="Chromium0x7fb299cb2bc0">
-      <fraction n="0.04345" ref="Cr500x7fb299cb2d00"/>
-      <fraction n="0.83789" ref="Cr520x7fb299cb2d40"/>
-      <fraction n="0.09501" ref="Cr530x7fb299cb2d80"/>
-      <fraction n="0.02365" ref="Cr540x7fb299cb2dc0"/>
+    <element name="Chromium0x7fed4fc9c600">
+      <fraction n="0.04345" ref="Cr500x7fed4fc9c740"/>
+      <fraction n="0.83789" ref="Cr520x7fed4fc9c780"/>
+      <fraction n="0.09501" ref="Cr530x7fed4fc9c7c0"/>
+      <fraction n="0.02365" ref="Cr540x7fed4fc9c800"/>
     </element>
-    <isotope N="58" Z="28" name="Ni580x7fb299cb35c0">
+    <isotope N="58" Z="28" name="Ni580x7fed4fc9d000">
       <atom unit="g/mole" value="57.9353"/>
     </isotope>
-    <isotope N="60" Z="28" name="Ni600x7fb299cb3600">
+    <isotope N="60" Z="28" name="Ni600x7fed4fc9d040">
       <atom unit="g/mole" value="59.9308"/>
     </isotope>
-    <isotope N="61" Z="28" name="Ni610x7fb299cb3640">
+    <isotope N="61" Z="28" name="Ni610x7fed4fc9d080">
       <atom unit="g/mole" value="60.9311"/>
     </isotope>
-    <isotope N="62" Z="28" name="Ni620x7fb299cb3680">
+    <isotope N="62" Z="28" name="Ni620x7fed4fc9d0c0">
       <atom unit="g/mole" value="61.9283"/>
     </isotope>
-    <isotope N="64" Z="28" name="Ni640x7fb299cb36c0">
+    <isotope N="64" Z="28" name="Ni640x7fed4fc9d100">
       <atom unit="g/mole" value="63.928"/>
     </isotope>
-    <element name="Nickel0x7fb299cb3410">
-      <fraction n="0.680769" ref="Ni580x7fb299cb35c0"/>
-      <fraction n="0.262231" ref="Ni600x7fb299cb3600"/>
-      <fraction n="0.011399" ref="Ni610x7fb299cb3640"/>
-      <fraction n="0.036345" ref="Ni620x7fb299cb3680"/>
-      <fraction n="0.009256" ref="Ni640x7fb299cb36c0"/>
+    <element name="Nickel0x7fed4fc9ce50">
+      <fraction n="0.680769" ref="Ni580x7fed4fc9d000"/>
+      <fraction n="0.262231" ref="Ni600x7fed4fc9d040"/>
+      <fraction n="0.011399" ref="Ni610x7fed4fc9d080"/>
+      <fraction n="0.036345" ref="Ni620x7fed4fc9d0c0"/>
+      <fraction n="0.009256" ref="Ni640x7fed4fc9d100"/>
     </element>
-    <isotope N="92" Z="42" name="Mo920x7fb299cb39a0">
+    <isotope N="92" Z="42" name="Mo920x7fed4fc9d3e0">
       <atom unit="g/mole" value="91.9068"/>
     </isotope>
-    <isotope N="94" Z="42" name="Mo940x7fb299cb39e0">
+    <isotope N="94" Z="42" name="Mo940x7fed4fc9d420">
       <atom unit="g/mole" value="93.9051"/>
     </isotope>
-    <isotope N="95" Z="42" name="Mo950x7fb299cb3a20">
+    <isotope N="95" Z="42" name="Mo950x7fed4fc9d460">
       <atom unit="g/mole" value="94.9058"/>
     </isotope>
-    <isotope N="96" Z="42" name="Mo960x7fb299cb3a60">
+    <isotope N="96" Z="42" name="Mo960x7fed4fc9d4a0">
       <atom unit="g/mole" value="95.9047"/>
     </isotope>
-    <isotope N="97" Z="42" name="Mo970x7fb299cb3aa0">
+    <isotope N="97" Z="42" name="Mo970x7fed4fc9d4e0">
       <atom unit="g/mole" value="96.906"/>
     </isotope>
-    <isotope N="98" Z="42" name="Mo980x7fb299cb3ae0">
+    <isotope N="98" Z="42" name="Mo980x7fed4fc9d520">
       <atom unit="g/mole" value="97.9054"/>
     </isotope>
-    <isotope N="100" Z="42" name="Mo1000x7fb299cb3b20">
+    <isotope N="100" Z="42" name="Mo1000x7fed4fc9d560">
       <atom unit="g/mole" value="99.9075"/>
     </isotope>
-    <element name="Molybdenum0x7fb299cb37a0">
-      <fraction n="0.1484" ref="Mo920x7fb299cb39a0"/>
-      <fraction n="0.0925" ref="Mo940x7fb299cb39e0"/>
-      <fraction n="0.1592" ref="Mo950x7fb299cb3a20"/>
-      <fraction n="0.1668" ref="Mo960x7fb299cb3a60"/>
-      <fraction n="0.0955" ref="Mo970x7fb299cb3aa0"/>
-      <fraction n="0.2413" ref="Mo980x7fb299cb3ae0"/>
-      <fraction n="0.0963" ref="Mo1000x7fb299cb3b20"/>
+    <element name="Molybdenum0x7fed4fc9d1e0">
+      <fraction n="0.1484" ref="Mo920x7fed4fc9d3e0"/>
+      <fraction n="0.0925" ref="Mo940x7fed4fc9d420"/>
+      <fraction n="0.1592" ref="Mo950x7fed4fc9d460"/>
+      <fraction n="0.1668" ref="Mo960x7fed4fc9d4a0"/>
+      <fraction n="0.0955" ref="Mo970x7fed4fc9d4e0"/>
+      <fraction n="0.2413" ref="Mo980x7fed4fc9d520"/>
+      <fraction n="0.0963" ref="Mo1000x7fed4fc9d560"/>
     </element>
-    <isotope N="14" Z="7" name="N140x7fb299cb1080">
+    <isotope N="14" Z="7" name="N140x7fed4fc9aac0">
       <atom unit="g/mole" value="14.0031"/>
     </isotope>
-    <isotope N="15" Z="7" name="N150x7fb299cb10c0">
+    <isotope N="15" Z="7" name="N150x7fed4fc9ab00">
       <atom unit="g/mole" value="15.0001"/>
     </isotope>
-    <element name="Nitrogen0x7fb299cb0f80">
-      <fraction n="0.99632" ref="N140x7fb299cb1080"/>
-      <fraction n="0.00368" ref="N150x7fb299cb10c0"/>
+    <element name="Nitrogen0x7fed4fc9a9c0">
+      <fraction n="0.99632" ref="N140x7fed4fc9aac0"/>
+      <fraction n="0.00368" ref="N150x7fed4fc9ab00"/>
     </element>
-    <isotope N="54" Z="26" name="Fe540x7fb299cb3270">
+    <isotope N="54" Z="26" name="Fe540x7fed4fc9ccb0">
       <atom unit="g/mole" value="53.9396"/>
     </isotope>
-    <isotope N="56" Z="26" name="Fe560x7fb299cb32b0">
+    <isotope N="56" Z="26" name="Fe560x7fed4fc9ccf0">
       <atom unit="g/mole" value="55.9349"/>
     </isotope>
-    <isotope N="57" Z="26" name="Fe570x7fb299cb32f0">
+    <isotope N="57" Z="26" name="Fe570x7fed4fc9cd30">
       <atom unit="g/mole" value="56.9354"/>
     </isotope>
-    <isotope N="58" Z="26" name="Fe580x7fb299cb3330">
+    <isotope N="58" Z="26" name="Fe580x7fed4fc9cd70">
       <atom unit="g/mole" value="57.9333"/>
     </isotope>
-    <element name="Iron0x7fb299cb30e0">
-      <fraction n="0.05845" ref="Fe540x7fb299cb3270"/>
-      <fraction n="0.91754" ref="Fe560x7fb299cb32b0"/>
-      <fraction n="0.02119" ref="Fe570x7fb299cb32f0"/>
-      <fraction n="0.00282" ref="Fe580x7fb299cb3330"/>
+    <element name="Iron0x7fed4fc9cb20">
+      <fraction n="0.05845" ref="Fe540x7fed4fc9ccb0"/>
+      <fraction n="0.91754" ref="Fe560x7fed4fc9ccf0"/>
+      <fraction n="0.02119" ref="Fe570x7fed4fc9cd30"/>
+      <fraction n="0.00282" ref="Fe580x7fed4fc9cd70"/>
     </element>
-    <material name="ss_t3160x7fb299cb5520" state="solid">
+    <material name="ss_t3160x7fed4fc9ef60" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="284.208486931803"/>
       <D unit="g/cm3" value="8.03"/>
-      <fraction n="0.0008" ref="Carbon0x7fb299cb0df0"/>
-      <fraction n="0.02" ref="Manganese0x7fb299cb2ea0"/>
-      <fraction n="0.00045" ref="Phosphorus0x7fb299cb2540"/>
-      <fraction n="0.0003" ref="Sulfur0x7fb299cb2760"/>
-      <fraction n="0.0075" ref="Silicon0x7fb299cb2280"/>
-      <fraction n="0.17" ref="Chromium0x7fb299cb2bc0"/>
-      <fraction n="0.12" ref="Nickel0x7fb299cb3410"/>
-      <fraction n="0.025" ref="Molybdenum0x7fb299cb37a0"/>
-      <fraction n="0.001" ref="Nitrogen0x7fb299cb0f80"/>
-      <fraction n="0.65495" ref="Iron0x7fb299cb30e0"/>
+      <fraction n="0.0008" ref="Carbon0x7fed4fc9a830"/>
+      <fraction n="0.02" ref="Manganese0x7fed4fc9c8e0"/>
+      <fraction n="0.00045" ref="Phosphorus0x7fed4fc9bf80"/>
+      <fraction n="0.0003" ref="Sulfur0x7fed4fc9c1a0"/>
+      <fraction n="0.0075" ref="Silicon0x7fed4fc9bcc0"/>
+      <fraction n="0.17" ref="Chromium0x7fed4fc9c600"/>
+      <fraction n="0.12" ref="Nickel0x7fed4fc9ce50"/>
+      <fraction n="0.025" ref="Molybdenum0x7fed4fc9d1e0"/>
+      <fraction n="0.001" ref="Nitrogen0x7fed4fc9a9c0"/>
+      <fraction n="0.65495" ref="Iron0x7fed4fc9cb20"/>
     </material>
-    <isotope N="1" Z="1" name="H10x7fb299cb48d0">
+    <isotope N="1" Z="1" name="H10x7fed4fc9e310">
       <atom unit="g/mole" value="1.00782503081372"/>
     </isotope>
-    <isotope N="2" Z="1" name="H20x7fb299cb4dc0">
+    <isotope N="2" Z="1" name="H20x7fed4fc9e800">
       <atom unit="g/mole" value="2.01410199966617"/>
     </isotope>
-    <element name="H0x7fb299cb4d00">
-      <fraction n="0.999885" ref="H10x7fb299cb48d0"/>
-      <fraction n="0.000115" ref="H20x7fb299cb4dc0"/>
+    <element name="H0x7fed4fc9e740">
+      <fraction n="0.999885" ref="H10x7fed4fc9e310"/>
+      <fraction n="0.000115" ref="H20x7fed4fc9e800"/>
     </element>
-    <material name="galactic0x7fb299cb4c10" state="gas">
+    <material name="galactic0x7fed4fc9e650" state="gas">
       <T unit="K" value="2.73"/>
       <P unit="pascal" value="3e-18"/>
       <MEE unit="eV" value="19.2"/>
       <D unit="g/cm3" value="1e-25"/>
-      <fraction n="1" ref="H0x7fb299cb4d00"/>
+      <fraction n="1" ref="H0x7fed4fc9e740"/>
     </material>
-    <isotope N="63" Z="29" name="Cu630x7fb299cb59e0">
+    <isotope N="63" Z="29" name="Cu630x7fed4fc9f420">
       <atom unit="g/mole" value="62.9296"/>
     </isotope>
-    <isotope N="65" Z="29" name="Cu650x7fb299cb5a20">
+    <isotope N="65" Z="29" name="Cu650x7fed4fc9f460">
       <atom unit="g/mole" value="64.9278"/>
     </isotope>
-    <element name="Cu0x7fb299cb5910">
-      <fraction n="0.6917" ref="Cu630x7fb299cb59e0"/>
-      <fraction n="0.3083" ref="Cu650x7fb299cb5a20"/>
+    <element name="Cu0x7fed4fc9f350">
+      <fraction n="0.6917" ref="Cu630x7fed4fc9f420"/>
+      <fraction n="0.3083" ref="Cu650x7fed4fc9f460"/>
     </element>
-    <material name="Cu0x7fb299cb5820" state="solid">
+    <material name="Cu0x7fed4fc9f260" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="322"/>
       <D unit="g/cm3" value="8.96"/>
-      <fraction n="1" ref="Cu0x7fb299cb5910"/>
+      <fraction n="1" ref="Cu0x7fed4fc9f350"/>
     </material>
-    <material Z="13" name="Al0x7fb299cb7030" state="solid">
+    <material Z="13" name="Al0x7fed4fca0a70" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="166"/>
       <D unit="g/cm3" value="2.7"/>
       <atom unit="g/mole" value="26.981538"/>
     </material>
-    <isotope N="14" Z="7" name="N140x7fb299cb4140">
+    <isotope N="14" Z="7" name="N140x7fed4fc9db80">
       <atom unit="g/mole" value="14.0031"/>
     </isotope>
-    <isotope N="15" Z="7" name="N150x7fb299cb45f0">
+    <isotope N="15" Z="7" name="N150x7fed4fc9e030">
       <atom unit="g/mole" value="15.0001"/>
     </isotope>
-    <element name="N0x7fb299cb4520">
-      <fraction n="0.99632" ref="N140x7fb299cb4140"/>
-      <fraction n="0.00368" ref="N150x7fb299cb45f0"/>
+    <element name="N0x7fed4fc9df60">
+      <fraction n="0.99632" ref="N140x7fed4fc9db80"/>
+      <fraction n="0.00368" ref="N150x7fed4fc9e030"/>
     </element>
-    <material name="liquid_nitrogen0x7fb299cb4430" state="liquid">
+    <material name="liquid_nitrogen0x7fed4fc9de70" state="liquid">
       <T unit="K" value="77"/>
       <MEE unit="eV" value="82"/>
       <D unit="g/cm3" value="0.807"/>
-      <fraction n="1" ref="N0x7fb299cb4520"/>
+      <fraction n="1" ref="N0x7fed4fc9df60"/>
     </material>
-    <material name="G4_WATER0x7fb29c093680" state="solid">
+    <material name="G4_WATER0x7fed4fcaca90" state="solid">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="78"/>
       <D unit="g/cm3" value="1"/>
-      <fraction n="0.111898477841067" ref="H0x7fb299c9a520"/>
-      <fraction n="0.888101522158933" ref="O0x7fb299c9b580"/>
+      <fraction n="0.111898477841067" ref="H0x7fed4fc83f20"/>
+      <fraction n="0.888101522158933" ref="O0x7fed4fc84fc0"/>
     </material>
-    <isotope N="14" Z="7" name="N140x7fb299c9b1a0">
+    <isotope N="14" Z="7" name="N140x7fed4fc84be0">
       <atom unit="g/mole" value="14.0031"/>
     </isotope>
-    <isotope N="15" Z="7" name="N150x7fb299c9b220">
+    <isotope N="15" Z="7" name="N150x7fed4fc84c60">
       <atom unit="g/mole" value="15.0001"/>
     </isotope>
-    <element name="N0x7fb299c9b270">
-      <fraction n="0.99632" ref="N140x7fb299c9b1a0"/>
-      <fraction n="0.00368" ref="N150x7fb299c9b220"/>
+    <element name="N0x7fed4fc84cb0">
+      <fraction n="0.99632" ref="N140x7fed4fc84be0"/>
+      <fraction n="0.00368" ref="N150x7fed4fc84c60"/>
     </element>
-    <isotope N="36" Z="18" name="Ar360x7fb299c9b710">
+    <isotope N="36" Z="18" name="Ar360x7fed4fc85150">
       <atom unit="g/mole" value="35.9675"/>
     </isotope>
-    <isotope N="38" Z="18" name="Ar380x7fb299c9b750">
+    <isotope N="38" Z="18" name="Ar380x7fed4fc85190">
       <atom unit="g/mole" value="37.9627"/>
     </isotope>
-    <isotope N="40" Z="18" name="Ar400x7fb299c9b7a0">
+    <isotope N="40" Z="18" name="Ar400x7fed4fc851e0">
       <atom unit="g/mole" value="39.9624"/>
     </isotope>
-    <element name="Ar0x7fb299c9b7e0">
-      <fraction n="0.003365" ref="Ar360x7fb299c9b710"/>
-      <fraction n="0.000632" ref="Ar380x7fb299c9b750"/>
-      <fraction n="0.996003" ref="Ar400x7fb299c9b7a0"/>
+    <element name="Ar0x7fed4fc85220">
+      <fraction n="0.003365" ref="Ar360x7fed4fc85150"/>
+      <fraction n="0.000632" ref="Ar380x7fed4fc85190"/>
+      <fraction n="0.996003" ref="Ar400x7fed4fc851e0"/>
     </element>
-    <material name="Air0x7fb299c9af00" state="gas">
+    <material name="Air0x7fed4fc84940" state="gas">
       <T unit="K" value="293.15"/>
       <MEE unit="eV" value="85.7"/>
       <D unit="g/cm3" value="0.00120479"/>
-      <fraction n="0.000124000124000124" ref="C0x7fb299c9aff0"/>
-      <fraction n="0.755267755267755" ref="N0x7fb299c9b270"/>
-      <fraction n="0.231781231781232" ref="O0x7fb299c9b580"/>
-      <fraction n="0.0128270128270128" ref="Ar0x7fb299c9b7e0"/>
+      <fraction n="0.000124000124000124" ref="C0x7fed4fc84a30"/>
+      <fraction n="0.755267755267755" ref="N0x7fed4fc84cb0"/>
+      <fraction n="0.231781231781232" ref="O0x7fed4fc84fc0"/>
+      <fraction n="0.0128270128270128" ref="Ar0x7fed4fc85220"/>
     </material>
   </materials>
 
   <solids>
-    <box lunit="mm" name="z_wall0x7fb299cb9430" x="8648.7" y="8039.1" z="266.7"/>
-    <box lunit="mm" name="x_wall_short0x7fb299cb9670" x="6261.1" y="266.7" z="3759.2"/>
-    <box lunit="mm" name="x_wall_long0x7fb299cb9840" x="7632.7" y="127" z="3759.2"/>
-    <box lunit="mm" name="y_wall_left0x7fb299cbaa70" x="266.7" y="6629.4" z="3759.2"/>
-    <box lunit="mm" name="y_wall_right0x7fb299cbac50" x="152.4" y="4800.6" z="3759.2"/>
-    <box lunit="mm" name="room_x_wall_adj_door_length0x7fb299cbae00" x="1219.2" y="152.4" z="3759.2"/>
-    <box lunit="mm" name="cupboard_OV0x7fb299cbb060" x="685.8" y="1511.3" z="914.4"/>
-    <box lunit="mm" name="cupboard_IV0x7fb299cbb0d0" x="635" y="1460.5" z="863.6"/>
-    <subtraction name="cupboard0x7fb299cbb140">
-      <first ref="cupboard_OV0x7fb299cbb060"/>
-      <second ref="cupboard_IV0x7fb299cbb0d0"/>
+    <box lunit="mm" name="z_wall0x7fed4fcaf6b0" x="8648.7" y="8039.1" z="266.7"/>
+    <box lunit="mm" name="x_wall_short0x7fed4fcafe40" x="6261.1" y="266.7" z="3759.2"/>
+    <box lunit="mm" name="x_wall_long0x7fed4fcb02b0" x="7632.7" y="127" z="3759.2"/>
+    <box lunit="mm" name="y_wall_left0x7fed4fcb06e0" x="266.7" y="6629.4" z="3759.2"/>
+    <box lunit="mm" name="y_wall_right0x7fed4fcb0b20" x="152.4" y="4800.6" z="3759.2"/>
+    <box lunit="mm" name="room_x_wall_adj_door_length0x7fed4fcb0f40" x="1219.2" y="152.4" z="3759.2"/>
+    <box lunit="mm" name="cupboard_OV0x7fed4fcb1470" x="685.8" y="1511.3" z="914.4"/>
+    <box lunit="mm" name="cupboard_IV0x7fed4fcb14e0" x="635" y="1460.5" z="863.6"/>
+    <subtraction name="cupboard0x7fed4fcb1550">
+      <first ref="cupboard_OV0x7fed4fcb1470"/>
+      <second ref="cupboard_IV0x7fed4fcb14e0"/>
     </subtraction>
-    <box lunit="mm" name="pump_room_OV0x7fb299f9f580" x="1308.1" y="2590.8" z="3759.2"/>
-    <box lunit="mm" name="pump_room_IV0x7fb299f9f5f0" x="1206.5" y="2489.2" z="3759.2"/>
-    <subtraction name="pump_room0x7fb299f9f660">
-      <first ref="pump_room_OV0x7fb299f9f580"/>
-      <second ref="pump_room_IV0x7fb299f9f5f0"/>
+    <box lunit="mm" name="pump_room_OV0x7fed4dc46e20" x="1308.1" y="2590.8" z="3759.2"/>
+    <box lunit="mm" name="pump_room_IV0x7fed4dc46ee0" x="1206.5" y="2489.2" z="3759.2"/>
+    <subtraction name="pump_room0x7fed4dc46f50">
+      <first ref="pump_room_OV0x7fed4dc46e20"/>
+      <second ref="pump_room_IV0x7fed4dc46ee0"/>
     </subtraction>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="platform_pillar0x7fb29c096140" rmax="127" rmin="0" startphi="0" z="2057.4"/>
-    <xtru lunit="mm" name="platform_tri_pri0x7fb29a00d000">
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="platform_pillar0x7fed4dc47540" rmax="127" rmin="0" startphi="0" z="2057.4"/>
+    <xtru lunit="mm" name="platform_tri_pri0x7fed4c033800">
       <twoDimVertex x="-2057.4" y="-1257.3"/>
       <twoDimVertex x="-2057.4" y="1257.3"/>
       <twoDimVertex x="0" y="0"/>
       <section scalingFactor="1" xOffset="0" yOffset="0" zOrder="0" zPosition="-177.8"/>
       <section scalingFactor="1" xOffset="0" yOffset="0" zOrder="1" zPosition="177.8"/>
     </xtru>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="platform_hole0x7fb299cbbb90" rmax="317.5" rmin="0" startphi="0" z="177.8"/>
-    <subtraction name="platform0x7fb299cbbfa0">
-      <first ref="platform_tri_pri0x7fb29a00d000"/>
-      <second ref="platform_hole0x7fb299cbbb90"/>
-      <position name="platform0x7fb299cbbfa0_pos" unit="mm" x="-1346.2" y="0" z="0"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="platform_hole0x7fed4dc48870" rmax="317.5" rmin="0" startphi="0" z="177.8"/>
+    <subtraction name="platform0x7fed4dc48330">
+      <first ref="platform_tri_pri0x7fed4c033800"/>
+      <second ref="platform_hole0x7fed4dc48870"/>
+      <position name="platform0x7fed4dc48330_pos" unit="mm" x="-1346.2" y="0" z="0"/>
     </subtraction>
-    <box lunit="mm" name="world_box0x7fb299cb9bb0" x="9664.7" y="9055.1" z="6324.6"/>
-    <box lunit="mm" name="building_space0x7fb299d05340" x="8648.7" y="8039.1" z="5308.6"/>
-    <subtraction name="soil_space0x7fb299d053b0">
-      <first ref="world_box0x7fb299cb9bb0"/>
-      <second ref="building_space0x7fb299d05340"/>
-      <position name="soil_space0x7fb299d053b0_pos" unit="mm" x="508" y="-508" z="508"/>
+    <box lunit="mm" name="world_box0x7fed4fcaf560" x="9664.7" y="9055.1" z="6324.6"/>
+    <box lunit="mm" name="building_space0x7fed4f9a8f60" x="8648.7" y="8039.1" z="5308.6"/>
+    <subtraction name="soil_space0x7fed4f9a9020">
+      <first ref="world_box0x7fed4fcaf560"/>
+      <second ref="building_space0x7fed4f9a8f60"/>
+      <position name="soil_space0x7fed4f9a9020_pos" unit="mm" x="508" y="-508" z="508"/>
     </subtraction>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_sample_inner0x7fb299d06550" rmax="64" rmin="0" startphi="0" z="183"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_sample_outer0x7fb299d06330" rmax="65" rmin="0" startphi="0" z="193"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_4k_inner0x7fb299d06110" rmax="68.9" rmin="0" startphi="0" z="327"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_4k_outer0x7fb299d05ef0" rmax="70.5" rmin="0" startphi="0" z="337"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_77k_inner0x7fb299d05cd0" rmax="75" rmin="0" startphi="0" z="358"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_77k_outer0x7fb299d05ab0" rmax="76.2" rmin="0" startphi="0" z="368"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_vacuum_inner0x7fb299d05890" rmax="100.3" rmin="0" startphi="0" z="441"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_vacuum_outer0x7fb299d05680" rmax="101.6" rmin="0" startphi="0" z="451"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="arm_vacuum0x7fb299d06770" rmax="50.8" rmin="45.8" startphi="0" z="304.8"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="arm_77k0x7fb299d06980" rmax="44" rmin="39" startphi="0" z="300.8"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="arm_4k0x7fb299d06bc0" rmax="38" rmin="33" startphi="0" z="296.8"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_nitrogen0x7fb299d074f0" rmax="179.2" rmin="152.4" startphi="0" z="736.6"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_4k_inner0x7fb299d07b40" rmax="128.4" rmin="0" startphi="0" z="498"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_4k_outer0x7fb299d07930" rmax="133.4" rmin="0" startphi="0" z="508"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_77k_inner0x7fb299d07710" rmax="147.4" rmin="0" startphi="0" z="752"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_77k_outer0x7fb299d072d0" rmax="184.2" rmin="0" startphi="0" z="762"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_vacuum_inner0x7fb299d070b0" rmax="204.6" rmin="0" startphi="0" z="879"/>
-    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_vacuum_outer0x7fb299d06db0" rmax="209.6" rmin="0" startphi="0" z="889"/>
-    <box lunit="mm" name="tslot_vert_10x7fb299d07d60" x="38.1" y="38.1" z="2286"/>
-    <box lunit="mm" name="tslot_vert_20x7fb299d07f00" x="38.1" y="38.1" z="2286"/>
-    <box lunit="mm" name="tslot_vert_30x7fb299d080a0" x="38.1" y="38.1" z="2286"/>
-    <box lunit="mm" name="tslot_vert_40x7fb299d08240" x="38.1" y="38.1" z="2286"/>
-    <box lunit="mm" name="tslot_hor_10x7fb299d083e0" x="38.1" y="1448.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_20x7fb299d08580" x="38.1" y="1448.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_30x7fb299d08720" x="1371.9" y="38.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_40x7fb299d088c0" x="1371.9" y="38.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_50x7fb299d08a60" x="38.1" y="1448.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_60x7fb299d08c00" x="38.1" y="1448.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_70x7fb299d08da0" x="419.2" y="38.1" z="38.1"/>
-    <box lunit="mm" name="tslot_hor_80x7fb299d08f40" x="419.2" y="38.1" z="38.1"/>
-    <box lunit="mm" name="dose_box0x7fb299d09700" x="250" y="250" z="250"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_sample_inner0x7fed4f9ab4f0" rmax="64" rmin="0" startphi="0" z="183"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_sample_outer0x7fed4f9ab070" rmax="65" rmin="0" startphi="0" z="193"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_4k_inner0x7fed4f9aac00" rmax="68.9" rmin="0" startphi="0" z="327"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_4k_outer0x7fed4f9aa790" rmax="70.5" rmin="0" startphi="0" z="337"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_77k_inner0x7fed4f9aa310" rmax="75" rmin="0" startphi="0" z="358"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_77k_outer0x7fed4f9a9e90" rmax="76.2" rmin="0" startphi="0" z="368"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_vacuum_inner0x7fed4f9a9a10" rmax="100.3" rmin="0" startphi="0" z="441"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="can_vacuum_outer0x7fed4f9a9590" rmax="101.6" rmin="0" startphi="0" z="451"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="arm_vacuum0x7fed4f9ab970" rmax="50.8" rmin="45.8" startphi="0" z="304.8"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="arm_77k0x7fed4f9abe00" rmax="44" rmin="39" startphi="0" z="300.8"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="arm_4k0x7fed4f9ac1f0" rmax="38" rmin="33" startphi="0" z="296.8"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_nitrogen0x7fed4f9ad690" rmax="179.2" rmin="152.4" startphi="0" z="736.6"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_4k_inner0x7fed4f9ae4d0" rmax="128.4" rmin="0" startphi="0" z="498"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_4k_outer0x7fed4f9ae010" rmax="133.4" rmin="0" startphi="0" z="508"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_77k_inner0x7fed4f9adb50" rmax="147.4" rmin="0" startphi="0" z="752"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_77k_outer0x7fed4f9ad1d0" rmax="184.2" rmin="0" startphi="0" z="762"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_vacuum_inner0x7fed4f9acd10" rmax="204.6" rmin="0" startphi="0" z="879"/>
+    <tube aunit="deg" deltaphi="360" lunit="mm" name="cryo_vacuum_outer0x7fed4f9ac740" rmax="209.6" rmin="0" startphi="0" z="889"/>
+    <box lunit="mm" name="tslot_vert_10x7fed4f9ae8f0" x="38.1" y="38.1" z="2286"/>
+    <box lunit="mm" name="tslot_vert_20x7fed4f9aed20" x="38.1" y="38.1" z="2286"/>
+    <box lunit="mm" name="tslot_vert_30x7fed4f9af150" x="38.1" y="38.1" z="2286"/>
+    <box lunit="mm" name="tslot_vert_40x7fed4f9af580" x="38.1" y="38.1" z="2286"/>
+    <box lunit="mm" name="tslot_hor_10x7fed4f9af9b0" x="38.1" y="1448.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_20x7fed4f9afde0" x="38.1" y="1448.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_30x7fed4f9b0210" x="1371.9" y="38.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_40x7fed4f9b0640" x="1371.9" y="38.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_50x7fed4f9b0a70" x="38.1" y="1448.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_60x7fed4f9b0ea0" x="38.1" y="1448.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_70x7fed4f9b12d0" x="419.2" y="38.1" z="38.1"/>
+    <box lunit="mm" name="tslot_hor_80x7fed4f9b1700" x="419.2" y="38.1" z="38.1"/>
+    <box lunit="mm" name="dose_box0x7fed4f9b2180" x="250" y="250" z="250"/>
   </solids>
 
   <structure>
-    <volume name="z_wall0x7fb299cb94a0">
-      <materialref ref="G4_CONCRETE0x7fb29c093280"/>
-      <solidref ref="z_wall0x7fb299cb9430"/>
+    <volume name="z_wall0x7fed4fcaf720">
+      <materialref ref="G4_CONCRETE0x7fed4fca2da0"/>
+      <solidref ref="z_wall0x7fed4fcaf6b0"/>
     </volume>
-    <volume name="x_wall_short0x7fb299cb96e0">
-      <materialref ref="G4_CONCRETE0x7fb29c093280"/>
-      <solidref ref="x_wall_short0x7fb299cb9670"/>
+    <volume name="x_wall_short0x7fed4fcafee0">
+      <materialref ref="G4_CONCRETE0x7fed4fca2da0"/>
+      <solidref ref="x_wall_short0x7fed4fcafe40"/>
     </volume>
-    <volume name="x_wall_long0x7fb299cba940">
-      <materialref ref="G4_CONCRETE0x7fb29c093280"/>
-      <solidref ref="x_wall_long0x7fb299cb9840"/>
+    <volume name="x_wall_long0x7fed4fcb0350">
+      <materialref ref="G4_CONCRETE0x7fed4fca2da0"/>
+      <solidref ref="x_wall_long0x7fed4fcb02b0"/>
     </volume>
-    <volume name="y_wall_left0x7fb299cbaae0">
-      <materialref ref="G4_CONCRETE0x7fb29c093280"/>
-      <solidref ref="y_wall_left0x7fb299cbaa70"/>
+    <volume name="y_wall_left0x7fed4fcb0780">
+      <materialref ref="G4_CONCRETE0x7fed4fca2da0"/>
+      <solidref ref="y_wall_left0x7fed4fcb06e0"/>
     </volume>
-    <volume name="y_wall_right0x7fb299cbacc0">
-      <materialref ref="G4_CONCRETE0x7fb29c093280"/>
-      <solidref ref="y_wall_right0x7fb299cbac50"/>
+    <volume name="y_wall_right0x7fed4fcb0bd0">
+      <materialref ref="G4_CONCRETE0x7fed4fca2da0"/>
+      <solidref ref="y_wall_right0x7fed4fcb0b20"/>
     </volume>
-    <volume name="room_x_wall_adj_door_length0x7fb299cbae90">
-      <materialref ref="G4_CONCRETE0x7fb29c093280"/>
-      <solidref ref="room_x_wall_adj_door_length0x7fb299cbae00"/>
+    <volume name="room_x_wall_adj_door_length0x7fed4fcb1000">
+      <materialref ref="G4_CONCRETE0x7fed4fca2da0"/>
+      <solidref ref="room_x_wall_adj_door_length0x7fed4fcb0f40"/>
     </volume>
-    <volume name="cupboard0x7fb299cbb280">
-      <materialref ref="wood0x7fb299cae2f0"/>
-      <solidref ref="cupboard0x7fb299cbb140"/>
+    <volume name="cupboard0x7fed4fcb1690">
+      <materialref ref="wood0x7fed4fc97d30"/>
+      <solidref ref="cupboard0x7fed4fcb1550"/>
     </volume>
-    <volume name="pump_room0x7fb299f9f7f0">
-      <materialref ref="wood0x7fb299cae2f0"/>
-      <solidref ref="pump_room0x7fb299f9f660"/>
+    <volume name="pump_room0x7fed4dc47090">
+      <materialref ref="wood0x7fed4fc97d30"/>
+      <solidref ref="pump_room0x7fed4dc46f50"/>
     </volume>
-    <volume name="platform_pillar0x7fb299cbb380">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="platform_pillar0x7fb29c096140"/>
+    <volume name="platform_pillar0x7fed4dc47490">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="platform_pillar0x7fed4dc47540"/>
     </volume>
-    <volume name="platform0x7fb299cbc5a0">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="platform0x7fb299cbbfa0"/>
+    <volume name="platform0x7fed4dc48630">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="platform0x7fed4dc48330"/>
     </volume>
-    <volume name="soil_space0x7fb299d05540">
-      <materialref ref="Soil0x7fb299cad030"/>
-      <solidref ref="soil_space0x7fb299d053b0"/>
+    <volume name="soil_space0x7fed4f9a9160">
+      <materialref ref="Soil0x7fed4fc96a70"/>
+      <solidref ref="soil_space0x7fed4f9a9020"/>
     </volume>
-    <volume name="can_sample_inner0x7fb299d06630">
-      <materialref ref="liquid_helium0x7fb299cb3c00"/>
-      <solidref ref="can_sample_inner0x7fb299d06550"/>
+    <volume name="can_sample_inner0x7fed4f9ab450">
+      <materialref ref="liquid_helium0x7fed4fc9d640"/>
+      <solidref ref="can_sample_inner0x7fed4f9ab4f0"/>
     </volume>
-    <volume name="can_sample_outer0x7fb299d06410">
-      <materialref ref="ss_t3160x7fb299cb5520"/>
-      <solidref ref="can_sample_outer0x7fb299d06330"/>
-      <physvol name="can_sample_inner0x7fb299d066f0">
-        <volumeref ref="can_sample_inner0x7fb299d06630"/>
+    <volume name="can_sample_outer0x7fed4f9aafc0">
+      <materialref ref="ss_t3160x7fed4fc9ef60"/>
+      <solidref ref="can_sample_outer0x7fed4f9ab070"/>
+      <physvol name="can_sample_inner0x7fed4f9ab5d0">
+        <volumeref ref="can_sample_inner0x7fed4f9ab450"/>
       </physvol>
     </volume>
-    <volume name="can_4k_inner0x7fb299d061f0">
-      <materialref ref="galactic0x7fb299cb4c10"/>
-      <solidref ref="can_4k_inner0x7fb299d06110"/>
-      <physvol name="can_sample_outer0x7fb299d064d0">
-        <volumeref ref="can_sample_outer0x7fb299d06410"/>
-        <position name="can_sample_outer0x7fb299d064d0_pos" unit="mm" x="0" y="0" z="59"/>
+    <volume name="can_4k_inner0x7fed4f9aab50">
+      <materialref ref="galactic0x7fed4fc9e650"/>
+      <solidref ref="can_4k_inner0x7fed4f9aac00"/>
+      <physvol name="can_sample_outer0x7fed4f9ab150">
+        <volumeref ref="can_sample_outer0x7fed4f9aafc0"/>
+        <position name="can_sample_outer0x7fed4f9ab150_pos" unit="mm" x="0" y="0" z="59"/>
       </physvol>
     </volume>
-    <volume name="can_4k_outer0x7fb299d05fd0">
-      <materialref ref="Cu0x7fb299cb5820"/>
-      <solidref ref="can_4k_outer0x7fb299d05ef0"/>
-      <physvol name="can_4k_inner0x7fb299d062b0">
-        <volumeref ref="can_4k_inner0x7fb299d061f0"/>
+    <volume name="can_4k_outer0x7fed4f9aa6e0">
+      <materialref ref="Cu0x7fed4fc9f260"/>
+      <solidref ref="can_4k_outer0x7fed4f9aa790"/>
+      <physvol name="can_4k_inner0x7fed4f9aace0">
+        <volumeref ref="can_4k_inner0x7fed4f9aab50"/>
       </physvol>
     </volume>
-    <volume name="can_77k_inner0x7fb299d05db0">
-      <materialref ref="galactic0x7fb299cb4c10"/>
-      <solidref ref="can_77k_inner0x7fb299d05cd0"/>
-      <physvol name="can_4k_outer0x7fb299d06090">
-        <volumeref ref="can_4k_outer0x7fb299d05fd0"/>
-        <position name="can_4k_outer0x7fb299d06090_pos" unit="mm" x="0" y="0" z="2.5"/>
+    <volume name="can_77k_inner0x7fed4f9aa260">
+      <materialref ref="galactic0x7fed4fc9e650"/>
+      <solidref ref="can_77k_inner0x7fed4f9aa310"/>
+      <physvol name="can_4k_outer0x7fed4f9aa870">
+        <volumeref ref="can_4k_outer0x7fed4f9aa6e0"/>
+        <position name="can_4k_outer0x7fed4f9aa870_pos" unit="mm" x="0" y="0" z="2.5"/>
       </physvol>
     </volume>
-    <volume name="can_77k_outer0x7fb299d05b90">
-      <materialref ref="Cu0x7fb299cb5820"/>
-      <solidref ref="can_77k_outer0x7fb299d05ab0"/>
-      <physvol name="can_77k_inner0x7fb299d05e70">
-        <volumeref ref="can_77k_inner0x7fb299d05db0"/>
+    <volume name="can_77k_outer0x7fed4f9a9df0">
+      <materialref ref="Cu0x7fed4fc9f260"/>
+      <solidref ref="can_77k_outer0x7fed4f9a9e90"/>
+      <physvol name="can_77k_inner0x7fed4f9aa3f0">
+        <volumeref ref="can_77k_inner0x7fed4f9aa260"/>
       </physvol>
     </volume>
-    <volume name="can_vacuum_inner0x7fb299d05970">
-      <materialref ref="galactic0x7fb299cb4c10"/>
-      <solidref ref="can_vacuum_inner0x7fb299d05890"/>
-      <physvol name="can_77k_outer0x7fb299d05c50">
-        <volumeref ref="can_77k_outer0x7fb299d05b90"/>
-        <position name="can_77k_outer0x7fb299d05c50_pos" unit="mm" x="0" y="0" z="28.5"/>
+    <volume name="can_vacuum_inner0x7fed4f9a9970">
+      <materialref ref="galactic0x7fed4fc9e650"/>
+      <solidref ref="can_vacuum_inner0x7fed4f9a9a10"/>
+      <physvol name="can_77k_outer0x7fed4f9a9f70">
+        <volumeref ref="can_77k_outer0x7fed4f9a9df0"/>
+        <position name="can_77k_outer0x7fed4f9a9f70_pos" unit="mm" x="0" y="0" z="28.5"/>
       </physvol>
     </volume>
-    <volume name="can_vacuum_outer0x7fb299d05760">
-      <materialref ref="ss_t3160x7fb299cb5520"/>
-      <solidref ref="can_vacuum_outer0x7fb299d05680"/>
-      <physvol name="can_vacuum_inner0x7fb299d05a30">
-        <volumeref ref="can_vacuum_inner0x7fb299d05970"/>
+    <volume name="can_vacuum_outer0x7fed4f9a94e0">
+      <materialref ref="ss_t3160x7fed4fc9ef60"/>
+      <solidref ref="can_vacuum_outer0x7fed4f9a9590"/>
+      <physvol name="can_vacuum_inner0x7fed4f9a9af0">
+        <volumeref ref="can_vacuum_inner0x7fed4f9a9970"/>
       </physvol>
     </volume>
-    <volume name="arm_vacuum0x7fb299d06850">
-      <materialref ref="ss_t3160x7fb299cb5520"/>
-      <solidref ref="arm_vacuum0x7fb299d06770"/>
+    <volume name="arm_vacuum0x7fed4f9ab8d0">
+      <materialref ref="ss_t3160x7fed4fc9ef60"/>
+      <solidref ref="arm_vacuum0x7fed4f9ab970"/>
     </volume>
-    <volume name="arm_77k0x7fb299d06a60">
-      <materialref ref="Al0x7fb299cb7030"/>
-      <solidref ref="arm_77k0x7fb299d06980"/>
+    <volume name="arm_77k0x7fed4f9abd50">
+      <materialref ref="Al0x7fed4fca0a70"/>
+      <solidref ref="arm_77k0x7fed4f9abe00"/>
     </volume>
-    <volume name="arm_4k0x7fb299d06ca0">
-      <materialref ref="Al0x7fb299cb7030"/>
-      <solidref ref="arm_4k0x7fb299d06bc0"/>
+    <volume name="arm_4k0x7fed4f9ac2e0">
+      <materialref ref="Al0x7fed4fca0a70"/>
+      <solidref ref="arm_4k0x7fed4f9ac1f0"/>
     </volume>
-    <volume name="cryo_nitrogen0x7fb299d075d0">
-      <materialref ref="liquid_nitrogen0x7fb299cb4430"/>
-      <solidref ref="cryo_nitrogen0x7fb299d074f0"/>
+    <volume name="cryo_nitrogen0x7fed4f9ad600">
+      <materialref ref="liquid_nitrogen0x7fed4fc9de70"/>
+      <solidref ref="cryo_nitrogen0x7fed4f9ad690"/>
     </volume>
-    <volume name="cryo_4k_inner0x7fb299d07c20">
-      <materialref ref="liquid_helium0x7fb299cb3c00"/>
-      <solidref ref="cryo_4k_inner0x7fb299d07b40"/>
+    <volume name="cryo_4k_inner0x7fed4f9ae430">
+      <materialref ref="liquid_helium0x7fed4fc9d640"/>
+      <solidref ref="cryo_4k_inner0x7fed4f9ae4d0"/>
     </volume>
-    <volume name="cryo_4k_outer0x7fb299d07a10">
-      <materialref ref="ss_t3160x7fb299cb5520"/>
-      <solidref ref="cryo_4k_outer0x7fb299d07930"/>
-      <physvol name="cryo_4k_inner0x7fb299d07ce0">
-        <volumeref ref="cryo_4k_inner0x7fb299d07c20"/>
-      </physvol>
-    </volume>
-    <volume name="cryo_77k_inner0x7fb299d077f0">
-      <materialref ref="galactic0x7fb299cb4c10"/>
-      <solidref ref="cryo_77k_inner0x7fb299d07710"/>
-      <physvol name="cryo_4k_outer0x7fb299d07ad0">
-        <volumeref ref="cryo_4k_outer0x7fb299d07a10"/>
-        <position name="cryo_4k_outer0x7fb299d07ad0_pos" unit="mm" x="0" y="0" z="25.4"/>
+    <volume name="cryo_4k_outer0x7fed4f9adf80">
+      <materialref ref="ss_t3160x7fed4fc9ef60"/>
+      <solidref ref="cryo_4k_outer0x7fed4f9ae010"/>
+      <physvol name="cryo_4k_inner0x7fed4f9ae5b0">
+        <volumeref ref="cryo_4k_inner0x7fed4f9ae430"/>
       </physvol>
     </volume>
-    <volume name="cryo_77k_outer0x7fb299d073b0">
-      <materialref ref="ss_t3160x7fb299cb5520"/>
-      <solidref ref="cryo_77k_outer0x7fb299d072d0"/>
-      <physvol name="cryo_nitrogen0x7fb299d07690">
-        <volumeref ref="cryo_nitrogen0x7fb299d075d0"/>
-      </physvol>
-      <physvol name="cryo_77k_inner0x7fb299d078b0">
-        <volumeref ref="cryo_77k_inner0x7fb299d077f0"/>
+    <volume name="cryo_77k_inner0x7fed4f9adab0">
+      <materialref ref="galactic0x7fed4fc9e650"/>
+      <solidref ref="cryo_77k_inner0x7fed4f9adb50"/>
+      <physvol name="cryo_4k_outer0x7fed4f9ae0f0">
+        <volumeref ref="cryo_4k_outer0x7fed4f9adf80"/>
+        <position name="cryo_4k_outer0x7fed4f9ae0f0_pos" unit="mm" x="0" y="0" z="25.4"/>
       </physvol>
     </volume>
-    <volume name="cryo_vacuum_inner0x7fb299d07190">
-      <materialref ref="galactic0x7fb299cb4c10"/>
-      <solidref ref="cryo_vacuum_inner0x7fb299d070b0"/>
-      <physvol name="cryo_77k_outer0x7fb299d07470">
-        <volumeref ref="cryo_77k_outer0x7fb299d073b0"/>
-        <position name="cryo_77k_outer0x7fb299d07470_pos" unit="mm" x="0" y="0" z="-38.1"/>
+    <volume name="cryo_77k_outer0x7fed4f9ad140">
+      <materialref ref="ss_t3160x7fed4fc9ef60"/>
+      <solidref ref="cryo_77k_outer0x7fed4f9ad1d0"/>
+      <physvol name="cryo_nitrogen0x7fed4f9ad770">
+        <volumeref ref="cryo_nitrogen0x7fed4f9ad600"/>
+      </physvol>
+      <physvol name="cryo_77k_inner0x7fed4f9adc30">
+        <volumeref ref="cryo_77k_inner0x7fed4f9adab0"/>
       </physvol>
     </volume>
-    <volume name="cryo_vacuum_outer0x7fb299d06e90">
-      <materialref ref="ss_t3160x7fb299cb5520"/>
-      <solidref ref="cryo_vacuum_outer0x7fb299d06db0"/>
-      <physvol name="cryo_vacuum_inner0x7fb299d07250">
-        <volumeref ref="cryo_vacuum_inner0x7fb299d07190"/>
+    <volume name="cryo_vacuum_inner0x7fed4f9acc80">
+      <materialref ref="galactic0x7fed4fc9e650"/>
+      <solidref ref="cryo_vacuum_inner0x7fed4f9acd10"/>
+      <physvol name="cryo_77k_outer0x7fed4f9ad2b0">
+        <volumeref ref="cryo_77k_outer0x7fed4f9ad140"/>
+        <position name="cryo_77k_outer0x7fed4f9ad2b0_pos" unit="mm" x="0" y="0" z="-38.1"/>
       </physvol>
     </volume>
-    <volume name="tslot_vert_10x7fb299d07dd0">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_vert_10x7fb299d07d60"/>
+    <volume name="cryo_vacuum_outer0x7fed4f9ac6a0">
+      <materialref ref="ss_t3160x7fed4fc9ef60"/>
+      <solidref ref="cryo_vacuum_outer0x7fed4f9ac740"/>
+      <physvol name="cryo_vacuum_inner0x7fed4f9acdf0">
+        <volumeref ref="cryo_vacuum_inner0x7fed4f9acc80"/>
+      </physvol>
     </volume>
-    <volume name="tslot_vert_20x7fb299d07f70">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_vert_20x7fb299d07f00"/>
+    <volume name="tslot_vert_10x7fed4f9ae990">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_vert_10x7fed4f9ae8f0"/>
     </volume>
-    <volume name="tslot_vert_30x7fb299d08110">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_vert_30x7fb299d080a0"/>
+    <volume name="tslot_vert_20x7fed4f9aedc0">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_vert_20x7fed4f9aed20"/>
     </volume>
-    <volume name="tslot_vert_40x7fb299d082b0">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_vert_40x7fb299d08240"/>
+    <volume name="tslot_vert_30x7fed4f9af1f0">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_vert_30x7fed4f9af150"/>
     </volume>
-    <volume name="tslot_hor_10x7fb299d08450">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_10x7fb299d083e0"/>
+    <volume name="tslot_vert_40x7fed4f9af620">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_vert_40x7fed4f9af580"/>
     </volume>
-    <volume name="tslot_hor_20x7fb299d085f0">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_20x7fb299d08580"/>
+    <volume name="tslot_hor_10x7fed4f9afa50">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_10x7fed4f9af9b0"/>
     </volume>
-    <volume name="tslot_hor_30x7fb299d08790">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_30x7fb299d08720"/>
+    <volume name="tslot_hor_20x7fed4f9afe80">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_20x7fed4f9afde0"/>
     </volume>
-    <volume name="tslot_hor_40x7fb299d08930">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_40x7fb299d088c0"/>
+    <volume name="tslot_hor_30x7fed4f9b02b0">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_30x7fed4f9b0210"/>
     </volume>
-    <volume name="tslot_hor_50x7fb299d08ad0">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_50x7fb299d08a60"/>
+    <volume name="tslot_hor_40x7fed4f9b06e0">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_40x7fed4f9b0640"/>
     </volume>
-    <volume name="tslot_hor_60x7fb299d08c70">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_60x7fb299d08c00"/>
+    <volume name="tslot_hor_50x7fed4f9b0b10">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_50x7fed4f9b0a70"/>
     </volume>
-    <volume name="tslot_hor_70x7fb299d08e10">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_70x7fb299d08da0"/>
+    <volume name="tslot_hor_60x7fed4f9b0f40">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_60x7fed4f9b0ea0"/>
     </volume>
-    <volume name="tslot_hor_80x7fb299d08fb0">
-      <materialref ref="Al60610x7fb299cad300"/>
-      <solidref ref="tslot_hor_80x7fb299d08f40"/>
+    <volume name="tslot_hor_70x7fed4f9b1370">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_70x7fed4f9b12d0"/>
     </volume>
-    <volume name="dose_box_LV0x7fb299d09770">
-      <materialref ref="G4_WATER0x7fb29c093680"/>
-      <solidref ref="dose_box0x7fb299d09700"/>
+    <volume name="tslot_hor_80x7fed4f9b17a0">
+      <materialref ref="Al60610x7fed4fc96d40"/>
+      <solidref ref="tslot_hor_80x7fed4f9b1700"/>
     </volume>
-    <volume name="world_box0x7fb299cb9330">
-      <materialref ref="Air0x7fb299c9af00"/>
-      <solidref ref="world_box0x7fb299cb9bb0"/>
-      <physvol name="z_wall_10x7fb299cb9560">
-        <volumeref ref="z_wall0x7fb299cb94a0"/>
-        <position name="z_wall_10x7fb299cb9560_pos" unit="mm" x="508" y="-508" z="2012.95"/>
+    <volume name="dose_box_LV0x7fed4f9b21f0">
+      <materialref ref="G4_WATER0x7fed4fcaca90"/>
+      <solidref ref="dose_box0x7fed4f9b2180"/>
+    </volume>
+    <volume name="worldLV0x7fed4fcaf5d0">
+      <materialref ref="Air0x7fed4fc84940"/>
+      <solidref ref="world_box0x7fed4fcaf560"/>
+      <physvol name="z_wall_10x7fed4fcaf7e0">
+        <volumeref ref="z_wall0x7fed4fcaf720"/>
+        <position name="z_wall_10x7fed4fcaf7e0_pos" unit="mm" x="508" y="-508" z="2012.95"/>
       </physvol>
-      <physvol copynumber="1" name="z_wall_20x7fb299cb9600">
-        <volumeref ref="z_wall0x7fb299cb94a0"/>
-        <position name="z_wall_20x7fb299cb9600_pos" unit="mm" x="508" y="-508" z="-2012.95"/>
+      <physvol copynumber="1" name="z_wall_20x7fed4fcafb40">
+        <volumeref ref="z_wall0x7fed4fcaf720"/>
+        <position name="z_wall_20x7fed4fcafb40_pos" unit="mm" x="508" y="-508" z="-2012.95"/>
       </physvol>
-      <physvol name="x_wall_short0x7fb299cb9770">
-        <volumeref ref="x_wall_short0x7fb299cb96e0"/>
-        <position name="x_wall_short0x7fb299cb9770_pos" unit="mm" x="-685.8" y="3378.2" z="0"/>
+      <physvol name="x_wall_short0x7fed4fcaff70">
+        <volumeref ref="x_wall_short0x7fed4fcafee0"/>
+        <position name="x_wall_short0x7fed4fcaff70_pos" unit="mm" x="-685.8" y="3378.2" z="0"/>
       </physvol>
-      <physvol name="x_wall_long0x7fb299cbaa00">
-        <volumeref ref="x_wall_long0x7fb299cba940"/>
-        <position name="x_wall_long0x7fb299cbaa00_pos" unit="mm" x="0" y="-3448.05" z="0"/>
+      <physvol name="x_wall_long0x7fed4fcb03e0">
+        <volumeref ref="x_wall_long0x7fed4fcb0350"/>
+        <position name="x_wall_long0x7fed4fcb03e0_pos" unit="mm" x="0" y="-3448.05" z="0"/>
       </physvol>
-      <physvol name="y_wall_left0x7fb299cbaba0">
-        <volumeref ref="y_wall_left0x7fb299cbaae0"/>
-        <position name="y_wall_left0x7fb299cbaba0_pos" unit="mm" x="-3683" y="-69.85" z="0"/>
+      <physvol name="y_wall_left0x7fed4fcb0810">
+        <volumeref ref="y_wall_left0x7fed4fcb0780"/>
+        <position name="y_wall_left0x7fed4fcb0810_pos" unit="mm" x="-3683" y="-69.85" z="0"/>
       </physvol>
-      <physvol name="y_wall_right0x7fb299cbad80">
-        <volumeref ref="y_wall_right0x7fb299cbacc0"/>
-        <position name="y_wall_right0x7fb299cbad80_pos" unit="mm" x="2368.55" y="844.55" z="0"/>
+      <physvol name="y_wall_right0x7fed4fcb0c60">
+        <volumeref ref="y_wall_right0x7fed4fcb0bd0"/>
+        <position name="y_wall_right0x7fed4fcb0c60_pos" unit="mm" x="2368.55" y="844.55" z="0"/>
       </physvol>
-      <physvol name="room_x_wall_adj_door_length0x7fb299cbaf80">
-        <volumeref ref="room_x_wall_adj_door_length0x7fb299cbae90"/>
-        <position name="room_x_wall_adj_door_length0x7fb299cbaf80_pos" unit="mm" x="3054.35" y="-1479.55" z="0"/>
+      <physvol name="room_x_wall_adj_door_length0x7fed4fcb10c0">
+        <volumeref ref="room_x_wall_adj_door_length0x7fed4fcb1000"/>
+        <position name="room_x_wall_adj_door_length0x7fed4fcb10c0_pos" unit="mm" x="3054.35" y="-1479.55" z="0"/>
       </physvol>
-      <physvol name="cupboard0x7fb299cbb310">
-        <volumeref ref="cupboard0x7fb299cbb280"/>
-        <position name="cupboard0x7fb299cbb310_pos" unit="mm" x="1949.45" y="2489.2" z="-1422.4"/>
+      <physvol name="cupboard0x7fed4fcb1720">
+        <volumeref ref="cupboard0x7fed4fcb1690"/>
+        <position name="cupboard0x7fed4fcb1720_pos" unit="mm" x="1949.45" y="2489.2" z="-1422.4"/>
       </physvol>
-      <physvol name="pump_room0x7fb299f9f880">
-        <volumeref ref="pump_room0x7fb299f9f7f0"/>
-        <position name="pump_room0x7fb299f9f880_pos" unit="mm" x="-2895.6" y="-2089.15" z="0"/>
+      <physvol name="pump_room0x7fed4dc47120">
+        <volumeref ref="pump_room0x7fed4dc47090"/>
+        <position name="pump_room0x7fed4dc47120_pos" unit="mm" x="-2895.6" y="-2089.15" z="0"/>
       </physvol>
-      <physvol name="platform_pillar0x7fb299cbb440">
-        <volumeref ref="platform_pillar0x7fb299cbb380"/>
-        <position name="platform_pillar0x7fb299cbb440_pos" unit="mm" x="-1492.25" y="1758.95" z="-850.9"/>
+      <physvol name="platform_pillar0x7fed4dc47620">
+        <volumeref ref="platform_pillar0x7fed4dc47490"/>
+        <position name="platform_pillar0x7fed4dc47620_pos" unit="mm" x="-1492.25" y="1758.95" z="-850.9"/>
       </physvol>
-      <physvol name="platform0x7fb299cbc2a0">
-        <volumeref ref="platform0x7fb299cbc5a0"/>
-        <position name="platform0x7fb299cbc2a0_pos" unit="mm" x="-1492.25" y="1758.95" z="355.6"/>
+      <physvol name="platform0x7fed4dc486c0">
+        <volumeref ref="platform0x7fed4dc48630"/>
+        <position name="platform0x7fed4dc486c0_pos" unit="mm" x="-1492.25" y="1758.95" z="355.6"/>
       </physvol>
-      <physvol name="soil_space0x7fb299d055d0">
-        <volumeref ref="soil_space0x7fb299d05540"/>
+      <physvol name="soil_space0x7fed4f9a91f0">
+        <volumeref ref="soil_space0x7fed4f9a9160"/>
       </physvol>
-      <physvol name="can_vacuum_outer0x7fb299d05820">
-        <volumeref ref="can_vacuum_outer0x7fb299d05760"/>
-        <position name="can_vacuum_outer0x7fb299d05820_pos" unit="mm" x="31.75" y="970.8" z="-654.1"/>
-        <rotation name="can_vacuum_outer0x7fb299d05820_rot" unit="deg" x="180" y="0" z="0"/>
+      <physvol name="can_vacuum_outer0x7fed4f9a9670">
+        <volumeref ref="can_vacuum_outer0x7fed4f9a94e0"/>
+        <position name="can_vacuum_outer0x7fed4f9a9670_pos" unit="mm" x="31.75" y="970.8" z="-654.1"/>
+        <rotation name="can_vacuum_outer0x7fed4f9a9670_rot" unit="deg" x="180" y="0" z="0"/>
       </physvol>
-      <physvol name="arm_vacuum0x7fb299d06910">
-        <volumeref ref="arm_vacuum0x7fb299d06850"/>
-        <position name="arm_vacuum0x7fb299d06910_pos" unit="mm" x="31.75" y="970.8" z="-276.2"/>
+      <physvol name="arm_vacuum0x7fed4f9aba50">
+        <volumeref ref="arm_vacuum0x7fed4f9ab8d0"/>
+        <position name="arm_vacuum0x7fed4f9aba50_pos" unit="mm" x="31.75" y="970.8" z="-276.2"/>
       </physvol>
-      <physvol name="arm_77k0x7fb299d06b20">
-        <volumeref ref="arm_77k0x7fb299d06a60"/>
-        <position name="arm_77k0x7fb299d06b20_pos" unit="mm" x="31.75" y="970.8" z="-276.2"/>
+      <physvol name="arm_77k0x7fed4f9abee0">
+        <volumeref ref="arm_77k0x7fed4f9abd50"/>
+        <position name="arm_77k0x7fed4f9abee0_pos" unit="mm" x="31.75" y="970.8" z="-276.2"/>
       </physvol>
-      <physvol name="arm_4k0x7fb299d06d30">
-        <volumeref ref="arm_4k0x7fb299d06ca0"/>
-        <position name="arm_4k0x7fb299d06d30_pos" unit="mm" x="31.75" y="970.8" z="-276.2"/>
+      <physvol name="arm_4k0x7fed4f9ac370">
+        <volumeref ref="arm_4k0x7fed4f9ac2e0"/>
+        <position name="arm_4k0x7fed4f9ac370_pos" unit="mm" x="31.75" y="970.8" z="-276.2"/>
       </physvol>
-      <physvol name="cryo_vacuum_outer0x7fb299d06f20">
-        <volumeref ref="cryo_vacuum_outer0x7fb299d06e90"/>
-        <position name="cryo_vacuum_outer0x7fb299d06f20_pos" unit="mm" x="31.75" y="970.8" z="320.7"/>
+      <physvol name="cryo_vacuum_outer0x7fed4f9ac820">
+        <volumeref ref="cryo_vacuum_outer0x7fed4f9ac6a0"/>
+        <position name="cryo_vacuum_outer0x7fed4f9ac820_pos" unit="mm" x="31.75" y="970.8" z="320.7"/>
       </physvol>
-      <physvol name="tslot_vert_10x7fb299d07e90">
-        <volumeref ref="tslot_vert_10x7fb299d07dd0"/>
-        <position name="tslot_vert_10x7fb299d07e90_pos" unit="mm" x="736.75" y="1675.8" z="-736.6"/>
+      <physvol name="tslot_vert_10x7fed4f9aea20">
+        <volumeref ref="tslot_vert_10x7fed4f9ae990"/>
+        <position name="tslot_vert_10x7fed4f9aea20_pos" unit="mm" x="736.75" y="1675.8" z="-736.6"/>
       </physvol>
-      <physvol name="tslot_vert_20x7fb299d08030">
-        <volumeref ref="tslot_vert_20x7fb299d07f70"/>
-        <position name="tslot_vert_20x7fb299d08030_pos" unit="mm" x="736.75" y="265.8" z="-736.6"/>
+      <physvol name="tslot_vert_20x7fed4f9aee50">
+        <volumeref ref="tslot_vert_20x7fed4f9aedc0"/>
+        <position name="tslot_vert_20x7fed4f9aee50_pos" unit="mm" x="736.75" y="265.8" z="-736.6"/>
       </physvol>
-      <physvol name="tslot_vert_30x7fb299d081d0">
-        <volumeref ref="tslot_vert_30x7fb299d08110"/>
-        <position name="tslot_vert_30x7fb299d081d0_pos" unit="mm" x="-673.25" y="1675.8" z="-736.6"/>
+      <physvol name="tslot_vert_30x7fed4f9af280">
+        <volumeref ref="tslot_vert_30x7fed4f9af1f0"/>
+        <position name="tslot_vert_30x7fed4f9af280_pos" unit="mm" x="-673.25" y="1675.8" z="-736.6"/>
       </physvol>
-      <physvol name="tslot_vert_40x7fb299d08370">
-        <volumeref ref="tslot_vert_40x7fb299d082b0"/>
-        <position name="tslot_vert_40x7fb299d08370_pos" unit="mm" x="-673.25" y="265.8" z="-736.6"/>
+      <physvol name="tslot_vert_40x7fed4f9af6b0">
+        <volumeref ref="tslot_vert_40x7fed4f9af620"/>
+        <position name="tslot_vert_40x7fed4f9af6b0_pos" unit="mm" x="-673.25" y="265.8" z="-736.6"/>
       </physvol>
-      <physvol name="tslot_hor_10x7fb299d08510">
-        <volumeref ref="tslot_hor_10x7fb299d08450"/>
-        <position name="tslot_hor_10x7fb299d08510_pos" unit="mm" x="736.75" y="970.8" z="425.45"/>
+      <physvol name="tslot_hor_10x7fed4f9afae0">
+        <volumeref ref="tslot_hor_10x7fed4f9afa50"/>
+        <position name="tslot_hor_10x7fed4f9afae0_pos" unit="mm" x="736.75" y="970.8" z="425.45"/>
       </physvol>
-      <physvol name="tslot_hor_20x7fb299d086b0">
-        <volumeref ref="tslot_hor_20x7fb299d085f0"/>
-        <position name="tslot_hor_20x7fb299d086b0_pos" unit="mm" x="-673.25" y="970.8" z="425.45"/>
+      <physvol name="tslot_hor_20x7fed4f9aff10">
+        <volumeref ref="tslot_hor_20x7fed4f9afe80"/>
+        <position name="tslot_hor_20x7fed4f9aff10_pos" unit="mm" x="-673.25" y="970.8" z="425.45"/>
       </physvol>
-      <physvol name="tslot_hor_30x7fb299d08850">
-        <volumeref ref="tslot_hor_30x7fb299d08790"/>
-        <position name="tslot_hor_30x7fb299d08850_pos" unit="mm" x="31.75" y="1675.8" z="425.45"/>
+      <physvol name="tslot_hor_30x7fed4f9b0340">
+        <volumeref ref="tslot_hor_30x7fed4f9b02b0"/>
+        <position name="tslot_hor_30x7fed4f9b0340_pos" unit="mm" x="31.75" y="1675.8" z="425.45"/>
       </physvol>
-      <physvol name="tslot_hor_40x7fb299d089f0">
-        <volumeref ref="tslot_hor_40x7fb299d08930"/>
-        <position name="tslot_hor_40x7fb299d089f0_pos" unit="mm" x="31.75" y="265.8" z="425.45"/>
+      <physvol name="tslot_hor_40x7fed4f9b0770">
+        <volumeref ref="tslot_hor_40x7fed4f9b06e0"/>
+        <position name="tslot_hor_40x7fed4f9b0770_pos" unit="mm" x="31.75" y="265.8" z="425.45"/>
       </physvol>
-      <physvol name="tslot_hor_50x7fb299d08b90">
-        <volumeref ref="tslot_hor_50x7fb299d08ad0"/>
-        <position name="tslot_hor_50x7fb299d08b90_pos" unit="mm" x="260.4" y="970.8" z="463.55"/>
+      <physvol name="tslot_hor_50x7fed4f9b0ba0">
+        <volumeref ref="tslot_hor_50x7fed4f9b0b10"/>
+        <position name="tslot_hor_50x7fed4f9b0ba0_pos" unit="mm" x="260.4" y="970.8" z="463.55"/>
       </physvol>
-      <physvol name="tslot_hor_60x7fb299d08d30">
-        <volumeref ref="tslot_hor_60x7fb299d08c70"/>
-        <position name="tslot_hor_60x7fb299d08d30_pos" unit="mm" x="-196.9" y="970.8" z="463.55"/>
+      <physvol name="tslot_hor_60x7fed4f9b0fd0">
+        <volumeref ref="tslot_hor_60x7fed4f9b0f40"/>
+        <position name="tslot_hor_60x7fed4f9b0fd0_pos" unit="mm" x="-196.9" y="970.8" z="463.55"/>
       </physvol>
-      <physvol name="tslot_hor_70x7fb299d08ed0">
-        <volumeref ref="tslot_hor_70x7fb299d08e10"/>
-        <position name="tslot_hor_70x7fb299d08ed0_pos" unit="mm" x="31.75" y="1199.45" z="463.55"/>
+      <physvol name="tslot_hor_70x7fed4f9b1400">
+        <volumeref ref="tslot_hor_70x7fed4f9b1370"/>
+        <position name="tslot_hor_70x7fed4f9b1400_pos" unit="mm" x="31.75" y="1199.45" z="463.55"/>
       </physvol>
-      <physvol name="tslot_hor_80x7fb299d09070">
-        <volumeref ref="tslot_hor_80x7fb299d08fb0"/>
-        <position name="tslot_hor_80x7fb299d09070_pos" unit="mm" x="31.75" y="742.15" z="463.55"/>
+      <physvol name="tslot_hor_80x7fed4f9b1830">
+        <volumeref ref="tslot_hor_80x7fed4f9b17a0"/>
+        <position name="tslot_hor_80x7fed4f9b1830_pos" unit="mm" x="31.75" y="742.15" z="463.55"/>
       </physvol>
-      <physvol name="dose_box_PV0x7fb299d09830">
-        <volumeref ref="dose_box_LV0x7fb299d09770"/>
-        <position name="dose_box_PV0x7fb299d09830_pos" unit="mm" x="1040.0" y="1940.0" z="-1275.0"/>
+      <physvol name="dose_box_PV0x7fed4f9b2280">
+        <volumeref ref="dose_box_LV0x7fed4f9b21f0"/>
+        <position name="dose_box_PV0x7fed4f9b2280_pos" unit="mm" x="1040.0" y="1940.0" z="-1275.0"/>
       </physvol>
     </volume>
   </structure>
 
   <setup name="Default" version="1.0">
-    <world ref="world_box0x7fb299cb9330"/>
+    <world ref="worldLV0x7fed4fcaf5d0"/>
   </setup>
 
 </gdml>
