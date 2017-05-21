@@ -15,7 +15,7 @@ for i in range(0, len(coords)):
             "/process/list\n" + \
             "\n" + \
             "/gps/particle neutron\n" + \
-            "/gps/pos/centre 31.75 1720.8 -355.6 mm\n" + \
+            "/gps/pos/centre 31.75 1720.8 -745.0 mm\n" + \
             "/gps/pos/type Point\n" + \
             "/gps/ang/type iso\n" + \
             "\n" + \
