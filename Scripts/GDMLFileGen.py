@@ -883,7 +883,7 @@ for i in range(0, len(coords)):
 '      </physvol>\n' + \
 '      <physvol name="dose_box_PV0x7fb299d09830">\n' + \
 '        <volumeref ref="dose_box_LV0x7fb299d09770"/>\n' + \
-'        <position name="dose_box_PV0x7fb299d09830_pos" unit="mm" x="31.75" y="1720.8" z="-745"/>\n' + \
+'        <position name="dose_box_PV0x7fb299d09830_pos" unit="mm" x="' + str(xpos) + '" y="' + str(ypos) + '" z="' + str(zpos) + '"/>\n' + \
 '      </physvol>\n' + \
 '    </volume>\n' + \
 '  </structure>\n' + \

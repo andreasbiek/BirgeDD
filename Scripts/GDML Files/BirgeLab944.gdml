@@ -868,7 +868,7 @@
       </physvol>
       <physvol name="dose_box_PV0x7fb299d09830">
         <volumeref ref="dose_box_LV0x7fb299d09770"/>
-        <position name="dose_box_PV0x7fb299d09830_pos" unit="mm" x="31.75" y="1720.8" z="-745"/>
+        <position name="dose_box_PV0x7fb299d09830_pos" unit="mm" x="485.0" y="780.0" z="-1600.0"/>
       </physvol>
     </volume>
   </structure>
