@@ -762,7 +762,7 @@ for i in range(0, len(coords)):
 '      <materialref ref="G4_WATER0x7fed4fcaca90"/>\n' + \
 '      <solidref ref="dose_box0x7fed4f9b2180"/>\n' + \
 '    </volume>\n' + \
-'    <volume name="worldLV0x7fed4fcaf5d0">\n' + \
+'    <volume name="WorldLV0x7fed4fcaf5d0">\n' + \
 '      <materialref ref="Air0x7fed4fc84940"/>\n' + \
 '      <solidref ref="world_box0x7fed4fcaf560"/>\n' + \
 '      <physvol name="z_wall_10x7fed4fcaf7e0">\n' + \
@@ -889,7 +889,7 @@ for i in range(0, len(coords)):
 '  </structure>\n' + \
 '\n' + \
 '  <setup name="Default" version="1.0">\n' + \
-'    <world ref="worldLV0x7fed4fcaf5d0"/>\n' + \
+'    <world ref="WorldLV0x7fed4fcaf5d0"/>\n' + \
 '  </setup>\n' + \
 '\n' + \
 '</gdml>\n'

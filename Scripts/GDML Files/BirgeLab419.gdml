@@ -747,7 +747,7 @@
       <materialref ref="G4_WATER0x7fed4fcaca90"/>
       <solidref ref="dose_box0x7fed4f9b2180"/>
     </volume>
-    <volume name="worldLV0x7fed4fcaf5d0">
+    <volume name="WorldLV0x7fed4fcaf5d0">
       <materialref ref="Air0x7fed4fc84940"/>
       <solidref ref="world_box0x7fed4fcaf560"/>
       <physvol name="z_wall_10x7fed4fcaf7e0">
@@ -874,7 +874,7 @@
   </structure>
 
   <setup name="Default" version="1.0">
-    <world ref="worldLV0x7fed4fcaf5d0"/>
+    <world ref="WorldLV0x7fed4fcaf5d0"/>
   </setup>
 
 </gdml>
