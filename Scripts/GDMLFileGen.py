@@ -892,7 +892,7 @@ for i in range(0, len(coords)):
 '    <world ref="world_box0x7fb299cb9330"/>\n' + \
 '  </setup>\n' + \
 '\n' + \
-'</gdml>\n' + \
+'</gdml>\n'
 	f = open(dest + '/GDML Files/' + name + str(i) + ".gdml", "w")
 	f.write(filetext)
 	f.close()

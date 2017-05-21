@@ -6,7 +6,7 @@
 /process/list
 
 /gps/particle neutron
-/gps/pos/centre 31.75 1720.8 -355.6 mm
+/gps/pos/centre 31.75 1720.8 -745.0 mm
 /gps/pos/type Point
 /gps/ang/type iso
 
